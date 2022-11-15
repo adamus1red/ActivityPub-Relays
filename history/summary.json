@@ -4,18 +4,20 @@
     "url": "https://relay.libranet.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 1129,
-    "timeWeek": 1129,
-    "timeMonth": 1129,
-    "timeYear": 1129,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 1027,
+    "timeDay": 1027,
+    "timeWeek": 1027,
+    "timeMonth": 1027,
+    "timeYear": 1027,
+    "dailyMinutesDown": {
+      "2022-11-15": 1
+    }
   },
   {
     "name": "relay.wuff.space",
@@ -88,7 +90,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-11-15": 112
+      "2022-11-15": 151
     }
   },
   {
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.freespeech.club.ico",
     "slug": "relay-freespeech-club",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 146,
     "timeDay": 146,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-11-15": 112
+      "2022-11-15": 151
     }
   },
   {
