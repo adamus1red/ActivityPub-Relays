@@ -4,18 +4,20 @@
     "url": "https://relay.libranet.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 1061,
     "timeDay": 1061,
     "timeWeek": 1061,
     "timeMonth": 1061,
     "timeYear": 1061,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-15": 1
+    }
   },
   {
     "name": "relay.wuff.space",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 174,
     "timeDay": 174,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-11-15": 18
+      "2022-11-15": 74
     }
   },
   {
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.freespeech.club.ico",
     "slug": "relay-freespeech-club",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 133,
     "timeDay": 133,
     "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-11-15": 18
+      "2022-11-15": 74
     }
   },
   {
