@@ -12,11 +12,11 @@ sites:
   - name: relay.homunyan.com
     url: https://relay.homunyan.com/actor
   - name: relay.national-defence.network
-    url: https://relay.national-defence.network/actor
+    url: https://relay.national-defence.network
     headers:
       - "Content-Type: application/json"
   - name: relay.freespeech.club
-    url: https://relay.freespeech.club/actor
+    url: https://relay.freespeech.club
   - name: relay.glauca.space
     url: https://relay.glauca.space/actor
   - name: relay.mstdn.live
