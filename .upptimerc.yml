@@ -3,40 +3,94 @@ owner: adamus1red # Your GitHub organization or username, where this repository 
 repo:  ActivityPub-Relays # The name of this repository
 
 sites:
-  - name: relay.libranet.de
-    url: https://relay.libranet.de/actor
-  - name: relay.wuff.space
-    url: https://relay.wuff.space/actor
-  - name: mastodon-relay.thedoodleproject.net
-    url: https://mastodon-relay.thedoodleproject.net/actor
-  - name: relay.homunyan.com
-    url: https://relay.homunyan.com/actor
-  - name: relay.national-defence.network
-    url: https://relay.national-defence.network
-  - name: relay.freespeech.club
-    url: https://relay.freespeech.club
-  - name: relay.glauca.space
-    url: https://relay.glauca.space/actor
-  - name: relay.mstdn.live
-    url: https://relay.mstdn.live/actor
-  - name: relay.wagnersnetz.de
-    url: https://relay.wagnersnetz.de/actor
-  - name: relay.beckmeyer.us
-    url: https://relay.beckmeyer.us/actor
-  - name: relay.mistli.net
-    url: https://relay.mistli.net/actor
-  - name: relay.masto.social
-    url: https://relay.masto.social/actor
-  - name: relay.intahnet.co.uk
-    url: https://relay.intahnet.co.uk/actor
-  - name: relay.fedibird.com
-    url: https://relay.fedibird.com/actor
+  - name: en.relay.friendi.ca
+    url: https://en.relay.friendi.ca/actor
+  - name: federation.stream
+    url: https://federation.stream/actor
   - name: mastodon-relay.moew.science
     url: https://mastodon-relay.moew.science/actor
+  - name: relay.101010.pl
+    url: https://relay.101010.pl/actor
+  - name: relay.beckmeyer.us
+    url: https://relay.beckmeyer.us/actor
+  - name: relay.c.im
+    url: https://relay.c.im/actor
   - name: relay.chocoflan.net
     url: https://relay.chocoflan.net/actor
+  - name: relay.dresden.network
+    url: https://relay.dresden.network/actor
+  - name: relay.fedi.agency
+    url: https://relay.fedi.agency/actor
+  - name: relay.fedibird.com
+    url: https://relay.fedibird.com/actor
+  - name: relay.freespeech.club
+    url: https://relay.freespeech.club/actor
   - name: relay.froth.zone
     url: https://relay.froth.zone/actor
+  - name: relay.glauca.space
+    url: https://relay.glauca.space/actor
+  - name: relay.homunyan.com
+    url: https://relay.homunyan.com/actor
+  - name: relay.intahnet.co.uk
+    url: https://relay.intahnet.co.uk/actor
+  - name: relay.k3tan.com
+    url: https://relay.k3tan.com/actor
+  - name: relay.libranet.de
+    url: https://relay.libranet.de/actor
+  - name: relay.minecloud.ro
+    url: https://relay.minecloud.ro/actor
+  - name: relay.mistli.net
+    url: https://relay.mistli.net/actor
+  - name: relay.mstdn.live
+    url: https://relay.mstdn.live/actor
+  - name: relay.pissdichal.de
+    url: https://relay.pissdichal.de/actor
+  - name: relay.retronerd.at
+    url: https://relay.retronerd.at/actor
+  - name: relay.social.tigwali.fr
+    url: https://relay.social.tigwali.fr/actor
+  - name: relay.toot.yukimochi.jp
+    url: https://relay.toot.yukimochi.jp/actor
+  - name: relay.wagnersnetz.de
+    url: https://relay.wagnersnetz.de/actor
+  - name: relay.strizhakov.dev
+    url: https://relay.strizhakov.dev/actor
+  - name: mastodon-relay.thedoodleproject.net
+    url: https://mastodon-relay.thedoodleproject.net/actor
+  - name: relay.masto.social
+    url: https://relay.masto.social/actor
+  - name: relay.wuff.space
+    url: https://relay.wuff.space/actor
+  - name: relay.dog
+    url: https://relay.dog/actor
+  - name: aprelay.thebackupbox.net
+    url: https://aprelay.thebackupbox.net/actor
+  - name: relay.asonix.dog
+    url: https://relay.asonix.dog/actor
+  - name: relay.chemnitz.social
+    url: https://relay.chemnitz.social/actor
+  - name: relay.darmstadt.social
+    url: https://relay.darmstadt.social/actor
+  - name: relay.fediverse.life
+    url: https://relay.fediverse.life/actor
+  - name: relay.kretschmann.social
+    url: https://relay.kretschmann.social/actor
+  - name: relay.mastodon.libresilicon.com
+    url: https://relay.mastodon.libresilicon.com/actor
+  - name: relay.mastodon.scot
+    url: https://relay.mastodon.scot/actor
+  - name: relay.nfld.uk
+    url: https://relay.nfld.uk/actor
+  - name: relay.nsupdate.info
+    url: https://relay.nsupdate.info/actor
+  - name: relay.phreedom.club
+    url: https://relay.phreedom.club/actor
+  - name: relay.social.firc.de
+    url: https://relay.social.firc.de/actor
+  - name: relay2.mastodon.ml
+    url: https://relay2.mastodon.ml/actor
+  - name: relay.freespeech.club
+    url: https://relay.freespeech.club/actor
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
