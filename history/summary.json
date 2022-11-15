@@ -4,19 +4,19 @@
     "url": "https://relay.libranet.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 1061,
-    "timeDay": 1061,
-    "timeWeek": 1061,
-    "timeMonth": 1061,
-    "timeYear": 1061,
+    "status": "up",
+    "uptime": "84.44%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "84.44%",
+    "uptimeMonth": "84.44%",
+    "uptimeYear": "84.44%",
+    "time": 1244,
+    "timeDay": 1244,
+    "timeWeek": 1244,
+    "timeMonth": 1244,
+    "timeYear": 1244,
     "dailyMinutesDown": {
-      "2022-11-15": 1
+      "2022-11-15": 14
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 174,
     "timeDay": 174,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-11-15": 74
+      "2022-11-15": 88
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-11-15": 74
+      "2022-11-15": 88
     }
   },
   {
