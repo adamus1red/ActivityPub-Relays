@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "up",
-    "uptime": "84.44%",
-    "uptimeDay": "84.44%",
-    "uptimeWeek": "84.44%",
-    "uptimeMonth": "84.44%",
-    "uptimeYear": "84.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1244,
     "timeDay": 1244,
     "timeWeek": 1244,
     "timeMonth": 1244,
     "timeYear": 1244,
-    "dailyMinutesDown": {
-      "2022-11-15": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "relay.wuff.space",
@@ -79,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 174,
     "timeDay": 174,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-11-15": 88
+      "2022-11-15": 107
     }
   },
   {
@@ -110,7 +108,7 @@
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-11-15": 88
+      "2022-11-15": 107
     }
   },
   {
@@ -190,18 +188,20 @@
     "url": "https://relay.mistli.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4024,
-    "timeDay": 4024,
-    "timeWeek": 4024,
-    "timeMonth": 4024,
-    "timeYear": 4024,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 3287,
+    "timeDay": 3287,
+    "timeWeek": 3287,
+    "timeMonth": 3287,
+    "timeYear": 3287,
+    "dailyMinutesDown": {
+      "2022-11-15": 0
+    }
   },
   {
     "name": "relay.masto.social",
