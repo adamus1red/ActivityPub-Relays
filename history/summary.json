@@ -16,7 +16,7 @@
     "timeMonth": 601,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2022-11-15": 9
+      "2022-11-15": 19
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 9
+      "2022-11-15": 19
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 7
+      "2022-11-15": 17
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 677,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2022-11-15": 7
+      "2022-11-15": 17
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2022-11-15": 7
+      "2022-11-15": 17
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.freespeech.club.ico",
     "slug": "relay-freespeech-club",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 142,
     "timeDay": 142,
     "timeWeek": 142,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-11-15": 234
+      "2022-11-15": 243
     }
   },
   {
@@ -298,7 +298,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-11-15": 7
+      "2022-11-15": 16
     }
   },
   {
@@ -307,11 +307,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "up",
-    "uptime": "85.30%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "85.30%",
-    "uptimeMonth": "85.30%",
-    "uptimeYear": "85.30%",
+    "uptime": "85.88%",
+    "uptimeDay": "85.88%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "85.88%",
+    "uptimeYear": "85.88%",
     "time": 1163,
     "timeDay": 1163,
     "timeWeek": 1163,
@@ -326,19 +326,19 @@
     "url": "https://relay.minecloud.ro/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.minecloud.ro.ico",
     "slug": "relay-minecloud-ro",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "9.05%",
+    "uptimeDay": "9.05%",
+    "uptimeWeek": "9.05%",
+    "uptimeMonth": "9.05%",
+    "uptimeYear": "9.05%",
+    "time": 12474,
+    "timeDay": 12474,
+    "timeWeek": 12474,
+    "timeMonth": 12474,
+    "timeYear": 12474,
     "dailyMinutesDown": {
-      "2022-11-15": 5
+      "2022-11-15": 11
     }
   },
   {
@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 5
+      "2022-11-15": 15
     }
   },
   {
@@ -414,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 5
+      "2022-11-15": 14
     }
   },
   {
@@ -434,7 +434,7 @@
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-11-15": 5
+      "2022-11-15": 14
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 5
+      "2022-11-15": 14
     }
   },
   {
@@ -516,18 +516,20 @@
     "url": "https://relay.masto.social/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 7786,
     "timeDay": 7786,
     "timeWeek": 7786,
     "timeMonth": 7786,
     "timeYear": 7786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-15": 2
+    }
   },
   {
     "name": "relay.wuff.space",
@@ -582,7 +584,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 14
     }
   },
   {
@@ -620,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -658,7 +660,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -696,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -716,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -736,7 +738,7 @@
     "timeMonth": 447,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -756,7 +758,7 @@
     "timeMonth": 4549,
     "timeYear": 4549,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -776,7 +778,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -796,7 +798,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -816,7 +818,7 @@
     "timeMonth": 1501,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2022-11-15": 4
+      "2022-11-15": 13
     }
   },
   {
@@ -836,7 +838,7 @@
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-11-15": 234
+      "2022-11-15": 243
     }
   }
 ]
