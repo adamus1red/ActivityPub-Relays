@@ -46,7 +46,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Activity Pub Monitor
   introTitle: "**Upptime** is the open-source ActivityPub Relay monitor and status page, powered entirely by GitHub."
-  introMessage: This is a ActivityPub Relay status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). Please feel free to file a pull request to add relays for being monitored.
+  introMessage: Please feel free to file a pull request to add relays for being monitored on our [GitHub repository](https://github.com/adamus1red/ActivityPub-Relays/).
   navbar:
     - title: Status
       href: /
