@@ -13,6 +13,8 @@ sites:
     url: https://relay.homunyan.com/actor
   - name: relay.national-defence.network
     url: https://relay.national-defence.network/actor
+    headers:
+      - "Content-Type: application/json"
   - name: relay.freespeech.club
     url: https://relay.freespeech.club/actor
   - name: relay.glauca.space
@@ -52,6 +54,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
