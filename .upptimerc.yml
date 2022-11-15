@@ -3,23 +3,49 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: relay.libranet.de
+    url: https://relay.libranet.de/actor
+  - name: relay.wuff.space
+    url: https://relay.wuff.space/actor
+  - name: mastodon-relay.thedoodleproject.net
+    url: https://mastodon-relay.thedoodleproject.net/actor
+  - name: relay.homunyan.com
+    url: https://relay.homunyan.com/actor
+  - name: relay.national-defence.network
+    url: https://relay.national-defence.network/actor
+  - name: relay.freespeech.club
+    url: https://relay.freespeech.club/actor
+  - name: relay.glauca.space
+    url: https://relay.glauca.space/actor
+  - name: relay.mstdn.live
+    url: https://relay.mstdn.live/actor
+  - name: relay.wagnersnetz.de
+    url: https://relay.wagnersnetz.de/actor
+  - name: relay.beckmeyer.us
+    url: https://relay.beckmeyer.us/actor
+  - name: relay.mistli.net
+    url: https://relay.mistli.net/actor
+  - name: relay.masto.social
+    url: https://relay.masto.social/actor
+  - name: relay.intahnet.co.uk
+    url: https://relay.intahnet.co.uk/actor
+  - name: relay.fedibird.com
+    url: https://relay.fedibird.com/actor
+  - name: mastodon-relay.moew.science
+    url: https://mastodon-relay.moew.science/actor
+  - name: relay.chocoflan.net
+    url: https://relay.chocoflan.net/actor
+  - name: relay.froth.zone
+    url: https://relay.froth.zone/actor
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** is the open-source ActivityPub Relay monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
