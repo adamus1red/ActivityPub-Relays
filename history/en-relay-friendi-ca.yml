@@ -1,7 +1,7 @@
 url: https://en.relay.friendi.ca/actor
-status: down
-code: 502
-responseTime: 743
-lastUpdated: 2022-11-17T17:32:56.098Z
+status: up
+code: 200
+responseTime: 1925
+lastUpdated: 2022-11-17T17:43:58.138Z
 startTime: Tue Nov 15 2022 23:02:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
