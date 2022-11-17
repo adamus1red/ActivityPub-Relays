@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.relay.friendi.ca.ico",
     "slug": "en-relay-friendi-ca",
     "status": "up",
-    "uptime": "59.48%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "59.48%",
-    "uptimeMonth": "59.48%",
-    "uptimeYear": "59.48%",
+    "uptime": "59.73%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "59.73%",
+    "uptimeMonth": "59.73%",
+    "uptimeYear": "59.73%",
     "time": 6388,
-    "timeDay": 7471,
+    "timeDay": 5600,
     "timeWeek": 6388,
     "timeMonth": 6388,
     "timeYear": 6388,
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1137,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 62
     }
@@ -87,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.beckmeyer.us.ico",
     "slug": "relay-beckmeyer-us",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "96.62%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 290,
     "timeDay": 287,
     "timeWeek": 290,
@@ -107,11 +107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.c.im.ico",
     "slug": "relay-c-im",
     "status": "up",
-    "uptime": "49.74%",
-    "uptimeDay": "66.96%",
-    "uptimeWeek": "49.74%",
-    "uptimeMonth": "49.74%",
-    "uptimeYear": "49.74%",
+    "uptime": "50.05%",
+    "uptimeDay": "68.09%",
+    "uptimeWeek": "50.05%",
+    "uptimeMonth": "50.05%",
+    "uptimeYear": "50.05%",
     "time": 13684,
     "timeDay": 11037,
     "timeWeek": 13684,
@@ -129,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 195,
     "timeDay": 0,
     "timeWeek": 195,
@@ -160,7 +160,7 @@
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 61
     }
@@ -170,19 +170,19 @@
     "url": "https://relay.fedi.agency/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedi.agency.ico",
     "slug": "relay-fedi-agency",
-    "status": "down",
-    "uptime": "67.08%",
-    "uptimeDay": "76.72%",
-    "uptimeWeek": "67.08%",
-    "uptimeMonth": "67.08%",
-    "uptimeYear": "67.08%",
-    "time": 8219,
-    "timeDay": 7853,
-    "timeWeek": 8219,
-    "timeMonth": 8219,
-    "timeYear": 8219,
+    "status": "up",
+    "uptime": "66.91%",
+    "uptimeDay": "76.04%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "66.91%",
+    "uptimeYear": "66.91%",
+    "time": 8568,
+    "timeDay": 8479,
+    "timeWeek": 8568,
+    "timeMonth": 8568,
+    "timeYear": 8568,
     "dailyMinutesDown": {
-      "2022-11-17": 174,
+      "2022-11-17": 184,
       "2022-11-16": 632,
       "2022-11-15": 60
     }
@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedibird.com.ico",
     "slug": "relay-fedibird-com",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
     "time": 1794,
     "timeDay": 0,
     "timeWeek": 1794,
@@ -224,7 +224,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 287
     }
@@ -271,18 +271,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "down",
-    "uptime": "85.45%",
-    "uptimeDay": "71.06%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "85.45%",
-    "uptimeYear": "85.45%",
+    "uptime": "84.97%",
+    "uptimeDay": "69.94%",
+    "uptimeWeek": "84.97%",
+    "uptimeMonth": "84.97%",
+    "uptimeYear": "84.97%",
     "time": 2134,
     "timeDay": 0,
     "timeWeek": 2134,
     "timeMonth": 2134,
     "timeYear": 2134,
     "dailyMinutesDown": {
-      "2022-11-17": 417
+      "2022-11-17": 433
     }
   },
   {
@@ -320,7 +320,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 60
     }
@@ -331,11 +331,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "up",
-    "uptime": "85.60%",
+    "uptime": "85.68%",
     "uptimeDay": "88.97%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "85.60%",
-    "uptimeYear": "85.60%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "85.68%",
+    "uptimeYear": "85.68%",
     "time": 6282,
     "timeDay": 11365,
     "timeWeek": 6282,
@@ -353,18 +353,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.minecloud.ro.ico",
     "slug": "relay-minecloud-ro",
     "status": "down",
-    "uptime": "22.09%",
+    "uptime": "21.96%",
     "uptimeDay": "18.40%",
-    "uptimeWeek": "22.09%",
-    "uptimeMonth": "22.09%",
-    "uptimeYear": "22.09%",
+    "uptimeWeek": "21.96%",
+    "uptimeMonth": "21.96%",
+    "uptimeYear": "21.96%",
     "time": 20102,
     "timeDay": 21085,
     "timeWeek": 20102,
     "timeMonth": 20102,
     "timeYear": 20102,
     "dailyMinutesDown": {
-      "2022-11-17": 871,
+      "2022-11-17": 887,
       "2022-11-16": 1165,
       "2022-11-15": 15
     }
@@ -375,11 +375,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
     "status": "up",
-    "uptime": "93.21%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "93.21%",
+    "uptime": "93.25%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "93.25%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "93.25%",
     "time": 6208,
     "timeDay": 223,
     "timeWeek": 6208,
@@ -395,11 +395,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "up",
-    "uptime": "76.85%",
-    "uptimeDay": "61.59%",
-    "uptimeWeek": "76.85%",
-    "uptimeMonth": "76.85%",
-    "uptimeYear": "76.85%",
+    "uptime": "76.98%",
+    "uptimeDay": "62.71%",
+    "uptimeWeek": "76.98%",
+    "uptimeMonth": "76.98%",
+    "uptimeYear": "76.98%",
     "time": 2176,
     "timeDay": 6390,
     "timeWeek": 2176,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 58
     }
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 58
     }
@@ -471,7 +471,7 @@
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 58
     }
@@ -500,11 +500,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "96.92%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
     "time": 500,
     "timeDay": 432,
     "timeWeek": 500,
@@ -531,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 58
     }
@@ -542,11 +542,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.thedoodleproject.net.ico",
     "slug": "mastodon-relay-thedoodleproject-net",
     "status": "up",
-    "uptime": "52.25%",
-    "uptimeDay": "84.62%",
-    "uptimeWeek": "52.25%",
-    "uptimeMonth": "52.25%",
-    "uptimeYear": "52.25%",
+    "uptime": "52.51%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "52.51%",
+    "uptimeMonth": "52.51%",
+    "uptimeYear": "52.51%",
     "time": 1013,
     "timeDay": 248,
     "timeWeek": 1013,
@@ -563,11 +563,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "up",
-    "uptime": "82.74%",
+    "uptime": "82.83%",
     "uptimeDay": "67.38%",
-    "uptimeWeek": "82.74%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "82.74%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "82.83%",
+    "uptimeYear": "82.83%",
     "time": 8589,
     "timeDay": 10544,
     "timeWeek": 8589,
@@ -584,18 +584,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wuff.space.ico",
     "slug": "relay-wuff-space",
     "status": "down",
-    "uptime": "8.77%",
+    "uptime": "8.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.77%",
-    "uptimeMonth": "8.77%",
-    "uptimeYear": "8.77%",
+    "uptimeWeek": "8.72%",
+    "uptimeMonth": "8.72%",
+    "uptimeYear": "8.72%",
     "time": 1556,
     "timeDay": 0,
     "timeWeek": 1556,
     "timeMonth": 1556,
     "timeYear": 1556,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 36
     }
@@ -635,7 +635,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 58
     }
@@ -675,7 +675,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -715,7 +715,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -755,7 +755,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -777,7 +777,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -799,7 +799,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -821,7 +821,7 @@
     "timeMonth": 2977,
     "timeYear": 2977,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -843,7 +843,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -865,7 +865,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -887,7 +887,7 @@
     "timeMonth": 1146,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 57
     }
@@ -909,7 +909,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-11-17": 1138,
+      "2022-11-17": 1154,
       "2022-11-16": 1440,
       "2022-11-15": 287
     }
