@@ -59,7 +59,7 @@ sites:
   - name: relay.kretschmann.social
     url: https://relay.kretschmann.social/actor
   - name: relay.national-defence.network
-    url: https://relays.national-defence.network/actor
+    url: https://relay.national-defence.network/actor
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
