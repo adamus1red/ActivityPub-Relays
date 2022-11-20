@@ -9,7 +9,6 @@ sites:
     url: https://mastodon-relay.moew.science/actor
   - name: relay.101010.pl
     url: https://relay.101010.pl/actor
-    url: https://relay.beckmeyer.us/actor
   - name: relay.c.im
     url: https://relay.c.im/actor
   - name: relay.chocoflan.net
