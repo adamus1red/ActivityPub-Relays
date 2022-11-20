@@ -1,7 +1,7 @@
 url: https://relay.dresden.network/actor
-status: up
-code: 200
-responseTime: 810
-lastUpdated: 2022-11-20T18:40:20.126Z
+status: down
+code: 502
+responseTime: 596
+lastUpdated: 2022-11-20T18:52:51.505Z
 startTime: Tue Nov 15 2022 23:03:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
