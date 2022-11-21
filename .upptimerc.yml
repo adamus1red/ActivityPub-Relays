@@ -76,5 +76,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: dark
 
+il8n:
+  completeOutage: "🟥 Shits fucked."
+  partialOutage: "🟧 Some stuff's broken"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
