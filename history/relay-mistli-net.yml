@@ -1,7 +1,7 @@
 url: https://relay.mistli.net/actor
-status: down
-code: 502
-responseTime: 2422
-lastUpdated: 2022-11-22T07:30:06.721Z
+status: up
+code: 200
+responseTime: 272
+lastUpdated: 2022-11-22T07:41:09.994Z
 startTime: Tue Nov 15 2022 19:13:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
