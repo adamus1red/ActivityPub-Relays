@@ -27,6 +27,8 @@ sites:
     url: https://relay.homunyan.com/actor
   - name: relay.intahnet.co.uk
     url: https://relay.intahnet.co.uk/actor
+    assignees:
+      - mhamzahkhan
   - name: relay.k3tan.com
     url: https://relay.k3tan.com/actor
   - name: relay.libranet.de
