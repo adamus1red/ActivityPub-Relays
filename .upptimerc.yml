@@ -1,6 +1,8 @@
 # Change these first
 owner: adamus1red # Your GitHub organization or username, where this repository lives
 repo:  ActivityPub-Relays # The name of this repository
+user-agent: status.relays.national-defence.network
+
 
 sites:
   - name: en.relay.friendi.ca
@@ -79,10 +81,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
-
-il8n:
-  completeOutage: "🟥 Shits fucked."
-  partialOutage: "🟧 Some stuff's broken"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
