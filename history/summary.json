@@ -165,8 +165,8 @@
     "status": "down",
     "uptime": "67.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.78%",
-    "uptimeMonth": "79.24%",
+    "uptimeWeek": "9.65%",
+    "uptimeMonth": "79.21%",
     "uptimeYear": "67.75%",
     "time": 3626,
     "timeDay": 0,
@@ -174,7 +174,7 @@
     "timeMonth": 765,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-03-05": 1149,
+      "2023-03-05": 1162,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -401,7 +401,7 @@
     "timeMonth": 14555,
     "timeYear": 15031,
     "dailyMinutesDown": {
-      "2023-03-05": 1140,
+      "2023-03-05": 1153,
       "2023-03-04": 1419,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -514,7 +514,7 @@
     "timeMonth": 231,
     "timeYear": 13171,
     "dailyMinutesDown": {
-      "2023-03-05": 1149,
+      "2023-03-05": 1163,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -770,7 +770,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-03-05": 1150,
+      "2023-03-05": 1163,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -897,7 +897,7 @@
     "timeMonth": 4935,
     "timeYear": 2058,
     "dailyMinutesDown": {
-      "2023-03-05": 1150,
+      "2023-03-05": 1163,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -969,9 +969,9 @@
     "slug": "relay-wagnersnetz-de",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "91.27%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "91.58%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "97.67%",
     "time": 8258,
     "timeDay": 4234,
@@ -979,7 +979,7 @@
     "timeMonth": 7510,
     "timeYear": 8258,
     "dailyMinutesDown": {
-      "2023-03-05": 126,
+      "2023-03-05": 113,
       "2023-03-04": 95,
       "2023-03-03": 70,
       "2023-03-02": 44,
@@ -998,7 +998,7 @@
       "2023-02-14": 409,
       "2023-02-13": 151,
       "2023-02-12": 77,
-      "2023-02-11": 164
+      "2023-02-11": 182
     }
   },
   {
@@ -1155,7 +1155,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-03-05": 1150,
+      "2023-03-05": 1163,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -1331,11 +1331,11 @@
     "url": "https://relay.national-defence.network/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
-    "status": "up",
+    "status": "down",
     "uptime": "76.92%",
-    "uptimeDay": "56.58%",
-    "uptimeWeek": "18.13%",
-    "uptimeMonth": "36.06%",
+    "uptimeDay": "57.41%",
+    "uptimeWeek": "18.25%",
+    "uptimeMonth": "36.05%",
     "uptimeYear": "76.92%",
     "time": 5986,
     "timeDay": 8287,
@@ -1343,7 +1343,7 @@
     "timeMonth": 12017,
     "timeYear": 5986,
     "dailyMinutesDown": {
-      "2023-03-05": 356,
+      "2023-03-05": 357,
       "2023-03-04": 687,
       "2023-03-03": 1158,
       "2023-03-02": 1440,
