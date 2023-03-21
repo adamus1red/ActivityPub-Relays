@@ -1,7 +1,7 @@
 url: https://relay.101010.pl/actor
-status: down
-code: 502
-responseTime: 356
-lastUpdated: 2023-03-21T15:53:13.103Z
+status: up
+code: 200
+responseTime: 473
+lastUpdated: 2023-03-21T16:09:56.852Z
 startTime: Tue Nov 15 2022 23:02:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
