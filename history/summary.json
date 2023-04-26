@@ -35,19 +35,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "64.26%",
-    "uptimeWeek": "34.20%",
-    "uptimeMonth": "82.85%",
-    "uptimeYear": "96.78%",
+    "status": "down",
+    "uptime": "96.79%",
+    "uptimeDay": "64.79%",
+    "uptimeWeek": "34.27%",
+    "uptimeMonth": "82.92%",
+    "uptimeYear": "96.79%",
     "time": 2778,
-    "timeDay": 6782,
-    "timeWeek": 7237,
+    "timeDay": 6670,
+    "timeWeek": 7119,
     "timeMonth": 4767,
     "timeYear": 2778,
     "dailyMinutesDown": {
-      "2023-04-26": 331,
+      "2023-04-26": 333,
       "2023-04-25": 879,
       "2023-04-24": 1303,
       "2023-04-23": 728,
@@ -55,7 +55,7 @@
       "2023-04-21": 1134,
       "2023-04-20": 643,
       "2023-04-19": 646,
-      "2023-04-18": 426
+      "2023-04-18": 397
     }
   },
   {
@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-04-26": 809,
+      "2023-04-26": 819,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -879,7 +879,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-04-26": 809,
+      "2023-04-26": 819,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -1050,7 +1050,7 @@
     "uptime": "58.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.38%",
+    "uptimeMonth": "40.40%",
     "uptimeYear": "58.07%",
     "time": 1890,
     "timeDay": 470,
@@ -1382,7 +1382,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-04-26": 810,
+      "2023-04-26": 820,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -1624,7 +1624,7 @@
     "timeMonth": 10137,
     "timeYear": 8043,
     "dailyMinutesDown": {
-      "2023-04-26": 394,
+      "2023-04-26": 404,
       "2023-04-25": 495,
       "2023-04-24": 718,
       "2023-04-23": 1289,
