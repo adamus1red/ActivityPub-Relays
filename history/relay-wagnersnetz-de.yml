@@ -1,7 +1,7 @@
 url: https://relay.wagnersnetz.de/actor
-status: up
-code: 200
-responseTime: 594
-lastUpdated: 2023-05-12T23:12:32.687Z
+status: down
+code: 502
+responseTime: 911
+lastUpdated: 2023-05-13T06:29:51.738Z
 startTime: Tue Nov 15 2022 19:13:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
