@@ -35,19 +35,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "43.06%",
-    "uptimeWeek": "20.90%",
-    "uptimeMonth": "62.00%",
-    "uptimeYear": "93.69%",
-    "time": 3252,
-    "timeDay": 8446,
-    "timeWeek": 6041,
-    "timeMonth": 6152,
-    "timeYear": 3252,
+    "status": "down",
+    "uptime": "93.75%",
+    "uptimeDay": "43.01%",
+    "uptimeWeek": "20.91%",
+    "uptimeMonth": "62.33%",
+    "uptimeYear": "93.75%",
+    "time": 3251,
+    "timeDay": 7861,
+    "timeWeek": 6042,
+    "timeMonth": 6134,
+    "timeYear": 3251,
     "dailyMinutesDown": {
-      "2023-05-18": 38,
+      "2023-05-18": 39,
       "2023-05-17": 936,
       "2023-05-16": 1202,
       "2023-05-15": 1310,
@@ -61,7 +61,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1283
+      "2023-05-04": 1138
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-05-18": 169,
+      "2023-05-18": 179,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -928,7 +928,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-05-18": 170,
+      "2023-05-18": 179,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -1469,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-05-18": 170,
+      "2023-05-18": 180,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
