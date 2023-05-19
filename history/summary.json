@@ -35,19 +35,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "96.43%",
-    "uptimeDay": "53.19%",
-    "uptimeWeek": "22.60%",
-    "uptimeMonth": "78.30%",
-    "uptimeYear": "96.43%",
-    "time": 3309,
-    "timeDay": 5539,
-    "timeWeek": 6972,
-    "timeMonth": 6126,
-    "timeYear": 3309,
+    "status": "down",
+    "uptime": "96.44%",
+    "uptimeDay": "53.14%",
+    "uptimeWeek": "22.69%",
+    "uptimeMonth": "78.34%",
+    "uptimeYear": "96.44%",
+    "time": 3308,
+    "timeDay": 5453,
+    "timeWeek": 6940,
+    "timeMonth": 6094,
+    "timeYear": 3308,
     "dailyMinutesDown": {
-      "2023-05-19": 629,
+      "2023-05-19": 630,
       "2023-05-18": 763,
       "2023-05-17": 936,
       "2023-05-16": 1202,
@@ -56,7 +56,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1375,
       "2023-05-11": 259,
-      "2023-05-10": 153
+      "2023-05-10": 133
     }
   },
   {
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-05-19": 1358,
+      "2023-05-19": 1368,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-05-19": 1359,
+      "2023-05-19": 1369,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1242,9 +1242,9 @@
     "slug": "relay-wagnersnetz-de",
     "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.18%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "95.20%",
     "uptimeYear": "98.30%",
     "time": 6530,
     "timeDay": 1490,
@@ -1252,7 +1252,7 @@
     "timeMonth": 1416,
     "timeYear": 6530,
     "dailyMinutesDown": {
-      "2023-05-19": 38,
+      "2023-05-19": 27,
       "2023-05-16": 16,
       "2023-05-15": 17,
       "2023-05-14": 251,
@@ -1307,7 +1307,8 @@
       "2023-03-03": 70,
       "2023-03-02": 44,
       "2023-03-01": 118,
-      "2023-02-28": 44
+      "2023-02-28": 44,
+      "2023-02-25": 18
     }
   },
   {
@@ -1468,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-05-19": 1359,
+      "2023-05-19": 1369,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1681,7 +1682,7 @@
     "slug": "relay-darmstadt-social",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "14.27%",
+    "uptimeDay": "14.97%",
     "uptimeWeek": "81.88%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "99.25%",
