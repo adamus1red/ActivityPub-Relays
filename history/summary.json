@@ -35,19 +35,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "96.17%",
-    "uptimeDay": "46.30%",
-    "uptimeWeek": "17.12%",
-    "uptimeMonth": "76.79%",
-    "uptimeYear": "96.17%",
-    "time": 3288,
-    "timeDay": 5993,
-    "timeWeek": 7447,
+    "status": "down",
+    "uptime": "96.18%",
+    "uptimeDay": "46.91%",
+    "uptimeWeek": "17.21%",
+    "uptimeMonth": "76.86%",
+    "uptimeYear": "96.18%",
+    "time": 3287,
+    "timeDay": 5882,
+    "timeWeek": 7402,
     "timeMonth": 6211,
-    "timeYear": 3288,
+    "timeYear": 3287,
     "dailyMinutesDown": {
-      "2023-05-19": 146,
+      "2023-05-19": 147,
       "2023-05-18": 763,
       "2023-05-17": 936,
       "2023-05-16": 1202,
@@ -57,7 +57,7 @@
       "2023-05-12": 1375,
       "2023-05-11": 259,
       "2023-05-10": 573,
-      "2023-05-09": 723
+      "2023-05-09": 693
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-05-19": 322,
+      "2023-05-19": 332,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-05-19": 323,
+      "2023-05-19": 332,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1469,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-05-19": 323,
+      "2023-05-19": 333,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1682,9 +1682,9 @@
     "slug": "relay-darmstadt-social",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "30.85%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "30.19%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "99.56%",
     "time": 571,
     "timeDay": 554,
@@ -1692,7 +1692,7 @@
     "timeMonth": 590,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-05-19": 323,
+      "2023-05-19": 333,
       "2023-05-18": 672,
       "2023-02-12": 123,
       "2022-11-27": 41
