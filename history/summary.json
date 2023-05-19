@@ -35,19 +35,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "56.52%",
-    "uptimeWeek": "20.96%",
-    "uptimeMonth": "78.35%",
-    "uptimeYear": "96.44%",
+    "status": "down",
+    "uptime": "96.45%",
+    "uptimeDay": "56.82%",
+    "uptimeWeek": "21.05%",
+    "uptimeMonth": "78.42%",
+    "uptimeYear": "96.45%",
     "time": 3304,
-    "timeDay": 5752,
-    "timeWeek": 7081,
-    "timeMonth": 6099,
+    "timeDay": 5276,
+    "timeWeek": 7046,
+    "timeMonth": 6092,
     "timeYear": 3304,
     "dailyMinutesDown": {
-      "2023-05-19": 482,
+      "2023-05-19": 483,
       "2023-05-18": 763,
       "2023-05-17": 936,
       "2023-05-16": 1202,
@@ -56,7 +56,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1375,
       "2023-05-11": 259,
-      "2023-05-10": 277
+      "2023-05-10": 247
     }
   },
   {
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2023-05-19": 1045,
+      "2023-05-19": 1056,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-05-19": 1046,
+      "2023-05-19": 1056,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1469,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-05-19": 1046,
+      "2023-05-19": 1057,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1683,8 +1683,8 @@
     "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "96.08%",
+    "uptimeWeek": "82.85%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.29%",
     "time": 571,
     "timeDay": 609,
@@ -1692,7 +1692,7 @@
     "timeMonth": 590,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-05-19": 1046,
+      "2023-05-19": 1057,
       "2023-05-18": 672,
       "2023-02-12": 123,
       "2022-11-27": 41
