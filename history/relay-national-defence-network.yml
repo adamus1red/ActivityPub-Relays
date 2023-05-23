@@ -1,7 +1,7 @@
 url: https://relay.national-defence.network/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-23T11:12:41.294Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2023-05-23T11:21:32.440Z
 startTime: Sun Nov 20 2022 23:13:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
