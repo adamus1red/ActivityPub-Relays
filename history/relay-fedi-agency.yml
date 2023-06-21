@@ -1,7 +1,7 @@
 url: https://relay.fedi.agency/actor
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2023-06-20T23:14:47.808Z
+status: down
+code: 502
+responseTime: 377
+lastUpdated: 2023-06-21T11:15:02.864Z
 startTime: Tue Nov 15 2022 23:03:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
