@@ -1,7 +1,7 @@
 url: https://mastodon-relay.moew.science/actor
-status: down
-code: 502
-responseTime: 647
-lastUpdated: 2023-07-08T16:46:33.710Z
+status: up
+code: 200
+responseTime: 10575
+lastUpdated: 2023-07-08T17:27:29.564Z
 startTime: Tue Nov 15 2022 19:13:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
