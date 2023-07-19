@@ -36,19 +36,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "58.14%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "90.53%",
-    "uptimeYear": "98.83%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "58.85%",
+    "uptimeWeek": "72.65%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "98.84%",
     "time": 3254,
-    "timeDay": 3956,
+    "timeDay": 4035,
     "timeWeek": 2616,
     "timeMonth": 2505,
     "timeYear": 3254,
     "dailyMinutesDown": {
-      "2023-07-19": 391,
+      "2023-07-19": 395,
       "2023-07-18": 247,
       "2023-07-17": 408,
       "2023-07-16": 308,
@@ -57,7 +57,7 @@
       "2023-07-13": 564,
       "2023-07-12": 666,
       "2023-07-11": 632,
-      "2023-07-10": 442
+      "2023-07-10": 400
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-07-19": 616,
+      "2023-07-19": 634,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -998,7 +998,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-07-19": 617,
+      "2023-07-19": 634,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -1115,7 +1115,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-07-19": 617,
+      "2023-07-19": 634,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -1606,7 +1606,7 @@
     "uptime": "96.78%",
     "uptimeDay": "7.18%",
     "uptimeWeek": "15.40%",
-    "uptimeMonth": "74.01%",
+    "uptimeMonth": "73.97%",
     "uptimeYear": "96.78%",
     "time": 3039,
     "timeDay": 5733,
@@ -1614,7 +1614,7 @@
     "timeMonth": 3217,
     "timeYear": 3039,
     "dailyMinutesDown": {
-      "2023-07-19": 608,
+      "2023-07-19": 625,
       "2023-07-18": 1330,
       "2023-07-17": 1202,
       "2023-07-16": 1182,
@@ -1724,7 +1724,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-07-19": 618,
+      "2023-07-19": 635,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -2046,7 +2046,7 @@
     "uptime": "85.33%",
     "uptimeDay": "19.99%",
     "uptimeWeek": "13.74%",
-    "uptimeMonth": "29.71%",
+    "uptimeMonth": "29.67%",
     "uptimeYear": "85.33%",
     "time": 6722,
     "timeDay": 15819,
@@ -2054,7 +2054,7 @@
     "timeMonth": 5583,
     "timeYear": 6722,
     "dailyMinutesDown": {
-      "2023-07-19": 618,
+      "2023-07-19": 635,
       "2023-07-18": 1153,
       "2023-07-17": 1286,
       "2023-07-16": 1335,
