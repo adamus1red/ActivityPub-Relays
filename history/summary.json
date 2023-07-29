@@ -44,7 +44,7 @@
     "uptimeYear": "98.90%",
     "time": 3245,
     "timeDay": 672,
-    "timeWeek": 3273,
+    "timeWeek": 3278,
     "timeMonth": 2849,
     "timeYear": 3245,
     "dailyMinutesDown": {
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-07-29": 821,
+      "2023-07-29": 832,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -748,8 +748,8 @@
     "status": "down",
     "uptime": "72.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.60%",
-    "uptimeMonth": "84.72%",
+    "uptimeWeek": "33.50%",
+    "uptimeMonth": "84.70%",
     "uptimeYear": "72.98%",
     "time": 9549,
     "timeDay": 0,
@@ -757,7 +757,7 @@
     "timeMonth": 208,
     "timeYear": 9549,
     "dailyMinutesDown": {
-      "2023-07-29": 822,
+      "2023-07-29": 832,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1022,7 +1022,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-07-29": 822,
+      "2023-07-29": 832,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1149,7 +1149,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-07-29": 822,
+      "2023-07-29": 832,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1649,19 +1649,19 @@
     "url": "https://relay.masto.social/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
-    "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "21.28%",
-    "uptimeWeek": "35.98%",
-    "uptimeMonth": "82.87%",
-    "uptimeYear": "97.96%",
+    "status": "down",
+    "uptime": "97.98%",
+    "uptimeDay": "21.66%",
+    "uptimeWeek": "36.06%",
+    "uptimeMonth": "82.98%",
+    "uptimeYear": "97.98%",
     "time": 3259,
     "timeDay": 7449,
     "timeWeek": 4496,
     "timeMonth": 3818,
     "timeYear": 3259,
     "dailyMinutesDown": {
-      "2023-07-29": 640,
+      "2023-07-29": 642,
       "2023-07-28": 1178,
       "2023-07-27": 636,
       "2023-07-26": 484,
@@ -1669,7 +1669,7 @@
       "2023-07-24": 935,
       "2023-07-23": 1133,
       "2023-07-22": 1179,
-      "2023-07-21": 363
+      "2023-07-21": 314
     }
   },
   {
@@ -1681,7 +1681,7 @@
     "uptime": "86.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.42%",
+    "uptimeMonth": "68.39%",
     "uptimeYear": "86.28%",
     "time": 516,
     "timeDay": 1573,
@@ -1689,7 +1689,7 @@
     "timeMonth": 1232,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-07-29": 822,
+      "2023-07-29": 833,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1778,7 +1778,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-07-29": 822,
+      "2023-07-29": 833,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -2118,7 +2118,7 @@
     "timeMonth": 7482,
     "timeYear": 6835,
     "dailyMinutesDown": {
-      "2023-07-29": 782,
+      "2023-07-29": 792,
       "2023-07-28": 1185,
       "2023-07-27": 1128,
       "2023-07-26": 1306,
