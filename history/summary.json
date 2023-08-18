@@ -39,7 +39,7 @@
     "status": "up",
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
+    "uptimeWeek": "97.48%",
     "uptimeMonth": "90.27%",
     "uptimeYear": "98.93%",
     "time": 3317,
@@ -135,7 +135,7 @@
     "uptime": "72.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.23%",
+    "uptimeMonth": "36.25%",
     "uptimeYear": "72.54%",
     "time": 309,
     "timeDay": 1442,
@@ -1049,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-08-18": 268,
+      "2023-08-18": 279,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1196,7 +1196,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-08-18": 268,
+      "2023-08-18": 279,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1749,7 +1749,7 @@
     "uptime": "84.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "5.42%",
-    "uptimeMonth": "5.76%",
+    "uptimeMonth": "5.73%",
     "uptimeYear": "84.16%",
     "time": 1065,
     "timeDay": 0,
@@ -1757,7 +1757,7 @@
     "timeMonth": 5872,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-08-18": 269,
+      "2023-08-18": 279,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1843,7 +1843,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-08-18": 269,
+      "2023-08-18": 279,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -2191,19 +2191,19 @@
     "url": "https://relay.national-defence.network/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
-    "status": "up",
-    "uptime": "82.59%",
-    "uptimeDay": "62.44%",
-    "uptimeWeek": "27.22%",
-    "uptimeMonth": "15.90%",
-    "uptimeYear": "82.59%",
+    "status": "down",
+    "uptime": "82.60%",
+    "uptimeDay": "62.34%",
+    "uptimeWeek": "27.31%",
+    "uptimeMonth": "15.92%",
+    "uptimeYear": "82.60%",
     "time": 6947,
     "timeDay": 12559,
     "timeWeek": 6967,
     "timeMonth": 8640,
     "timeYear": 6947,
     "dailyMinutesDown": {
-      "2023-08-18": 267,
+      "2023-08-18": 268,
       "2023-08-17": 273,
       "2023-08-16": 995,
       "2023-08-15": 1296,
@@ -2276,7 +2276,7 @@
       "2023-05-04": 37,
       "2023-05-02": 28,
       "2023-05-01": 108,
-      "2023-04-29": 217
+      "2023-04-29": 160
     }
   }
 ]
