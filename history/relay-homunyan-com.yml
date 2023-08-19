@@ -1,7 +1,7 @@
 url: https://relay.homunyan.com/actor
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2023-08-18T23:12:24.605Z
-startTime: Tue Nov 15 2022 19:12:57 GMT+0000 (Coordinated Universal Time)
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2023-08-19T03:27:08.390Z
+startTime: 2022-11-15T19:12:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
