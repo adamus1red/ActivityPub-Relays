@@ -135,7 +135,7 @@
     "uptime": "73.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.40%",
+    "uptimeMonth": "52.42%",
     "uptimeYear": "73.02%",
     "time": 347,
     "timeDay": 995,
@@ -638,9 +638,9 @@
     "slug": "relay-glauca-space",
     "status": "up",
     "uptime": "69.77%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "69.77%",
     "time": 9564,
     "timeDay": 794,
@@ -648,7 +648,6 @@
     "timeMonth": 943,
     "timeYear": 9564,
     "dailyMinutesDown": {
-      "2023-08-23": 11,
       "2023-08-02": 26,
       "2023-07-19": 63,
       "2023-07-15": 16,
@@ -753,7 +752,7 @@
       "2022-12-17": 1289,
       "2022-12-16": 1315,
       "2022-12-15": 1216,
-      "2022-12-14": 180
+      "2022-12-14": 208
     }
   },
   {
@@ -762,18 +761,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "down",
-    "uptime": "71.70%",
+    "uptime": "71.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.40%",
-    "uptimeMonth": "51.05%",
-    "uptimeYear": "71.70%",
+    "uptimeWeek": "43.30%",
+    "uptimeMonth": "51.02%",
+    "uptimeYear": "71.69%",
     "time": 9263,
     "timeDay": 189,
     "timeWeek": 208,
     "timeMonth": 215,
     "timeYear": 9263,
     "dailyMinutesDown": {
-      "2023-08-23": 152,
+      "2023-08-23": 163,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -1058,7 +1057,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-08-23": 152,
+      "2023-08-23": 163,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -1210,7 +1209,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-08-23": 152,
+      "2023-08-23": 163,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -1630,18 +1629,19 @@
     "url": "https://relay.wagnersnetz.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "98.58%",
     "time": 5173,
     "timeDay": 524,
     "timeWeek": 651,
     "timeMonth": 791,
     "timeYear": 5173,
     "dailyMinutesDown": {
+      "2023-08-23": 5,
       "2023-08-22": 101,
       "2023-08-21": 53,
       "2023-08-20": 60,
@@ -1697,7 +1697,7 @@
       "2023-06-07": 26,
       "2023-06-06": 19,
       "2023-06-05": 27,
-      "2023-06-04": 71
+      "2023-06-04": 17
     }
   },
   {
@@ -1776,7 +1776,7 @@
     "timeMonth": 6097,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-08-23": 153,
+      "2023-08-23": 163,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -1867,7 +1867,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-08-23": 153,
+      "2023-08-23": 163,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -2232,7 +2232,7 @@
     "timeMonth": 8519,
     "timeYear": 6962,
     "dailyMinutesDown": {
-      "2023-08-23": 153,
+      "2023-08-23": 163,
       "2023-08-22": 1144,
       "2023-08-21": 1190,
       "2023-08-20": 1177,
