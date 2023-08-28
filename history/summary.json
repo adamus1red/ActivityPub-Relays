@@ -136,7 +136,7 @@
     "uptime": "73.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.85%",
+    "uptimeMonth": "68.87%",
     "uptimeYear": "73.49%",
     "time": 360,
     "timeDay": 936,
@@ -775,7 +775,7 @@
     "timeMonth": 220,
     "timeYear": 9190,
     "dailyMinutesDown": {
-      "2023-08-28": 157,
+      "2023-08-28": 167,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1067,7 +1067,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-08-28": 157,
+      "2023-08-28": 168,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-08-28": 157,
+      "2023-08-28": 168,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1649,18 +1649,19 @@
     "url": "https://relay.wagnersnetz.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "96.17%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "95.58%",
-    "uptimeYear": "98.61%",
+    "uptimeYear": "98.63%",
     "time": 5060,
     "timeDay": 614,
     "timeWeek": 578,
     "timeMonth": 740,
     "timeYear": 5060,
     "dailyMinutesDown": {
+      "2023-08-28": 5,
       "2023-08-27": 48,
       "2023-08-26": 46,
       "2023-08-25": 71,
@@ -1713,7 +1714,7 @@
       "2023-06-17": 232,
       "2023-06-16": 148,
       "2023-06-15": 604,
-      "2023-06-14": 1051
+      "2023-06-14": 971
     }
   },
   {
@@ -1754,7 +1755,7 @@
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "85.60%",
+    "uptimeMonth": "85.62%",
     "uptimeYear": "98.41%",
     "time": 3238,
     "timeDay": 441,
@@ -1793,7 +1794,7 @@
     "timeMonth": 6653,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-08-28": 158,
+      "2023-08-28": 168,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -1889,7 +1890,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-08-28": 158,
+      "2023-08-28": 168,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -2259,7 +2260,7 @@
     "timeMonth": 7416,
     "timeYear": 6901,
     "dailyMinutesDown": {
-      "2023-08-28": 147,
+      "2023-08-28": 157,
       "2023-08-27": 1284,
       "2023-08-26": 1155,
       "2023-08-25": 1229,
