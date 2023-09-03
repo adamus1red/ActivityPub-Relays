@@ -136,7 +136,7 @@
     "uptime": "74.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.19%",
+    "uptimeMonth": "88.22%",
     "uptimeYear": "74.03%",
     "time": 388,
     "timeDay": 995,
@@ -775,7 +775,8 @@
     "timeMonth": 224,
     "timeYear": 9082,
     "dailyMinutesDown": {
-      "2023-09-02": 1431,
+      "2023-09-03": 2,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -959,7 +960,7 @@
     "slug": "relay-libranet-de",
     "status": "up",
     "uptime": "97.02%",
-    "uptimeDay": "60.72%",
+    "uptimeDay": "61.47%",
     "uptimeWeek": "91.77%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "97.02%",
@@ -1076,7 +1077,8 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-09-02": 1431,
+      "2023-09-03": 2,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1238,7 +1240,8 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-09-02": 1431,
+      "2023-09-03": 2,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1813,7 +1816,8 @@
     "timeMonth": 7071,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2023-09-02": 1432,
+      "2023-09-03": 2,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -1914,7 +1918,8 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-09-02": 1432,
+      "2023-09-03": 2,
+      "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -2278,11 +2283,11 @@
     "url": "https://relay.national-defence.network/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
-    "status": "up",
+    "status": "down",
     "uptime": "79.52%",
-    "uptimeDay": "14.32%",
-    "uptimeWeek": "20.81%",
-    "uptimeMonth": "18.11%",
+    "uptimeDay": "14.68%",
+    "uptimeWeek": "20.90%",
+    "uptimeMonth": "18.13%",
     "uptimeYear": "79.52%",
     "time": 6966,
     "timeDay": 1978,
@@ -2290,6 +2295,7 @@
     "timeMonth": 7538,
     "timeYear": 6966,
     "dailyMinutesDown": {
+      "2023-09-03": 1,
       "2023-09-02": 1229,
       "2023-09-01": 963,
       "2023-08-31": 1142,
@@ -2360,8 +2366,7 @@
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1071,
-      "2023-06-23": 20,
-      "2023-06-21": 18
+      "2023-06-23": 20
     }
   }
 ]
