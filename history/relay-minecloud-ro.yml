@@ -1,7 +1,7 @@
 url: https://relay.minecloud.ro/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-09T17:04:34.966Z
+status: up
+code: 200
+responseTime: 1320
+lastUpdated: 2023-09-09T17:59:34.863Z
 startTime: 2022-11-15T23:03:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
