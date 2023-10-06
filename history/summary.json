@@ -138,7 +138,7 @@
     "uptime": "70.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.08%",
+    "uptimeMonth": "38.06%",
     "uptimeYear": "70.87%",
     "time": 446,
     "timeDay": 0,
@@ -146,7 +146,7 @@
     "timeMonth": 1486,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-10-06": 197,
+      "2023-10-06": 209,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -529,7 +529,7 @@
     "uptime": "94.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.21%",
+    "uptimeMonth": "62.23%",
     "uptimeYear": "94.43%",
     "time": 2101,
     "timeDay": 462,
@@ -824,7 +824,7 @@
     "timeMonth": 219,
     "timeYear": 8596,
     "dailyMinutesDown": {
-      "2023-10-06": 198,
+      "2023-10-06": 209,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -1170,7 +1170,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-10-06": 198,
+      "2023-10-06": 209,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -1366,7 +1366,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-10-06": 198,
+      "2023-10-06": 209,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -1835,7 +1835,7 @@
     "uptime": "91.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.38%",
+    "uptimeMonth": "19.36%",
     "uptimeYear": "91.56%",
     "time": 4871,
     "timeDay": 769,
@@ -1843,7 +1843,7 @@
     "timeMonth": 614,
     "timeYear": 4871,
     "dailyMinutesDown": {
-      "2023-10-06": 198,
+      "2023-10-06": 210,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -2008,7 +2008,7 @@
     "timeMonth": 136,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-10-06": 199,
+      "2023-10-06": 210,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -2143,7 +2143,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-06": 199,
+      "2023-10-06": 210,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -2541,19 +2541,19 @@
     "url": "https://relay.national-defence.network/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
-    "status": "up",
-    "uptime": "93.78%",
-    "uptimeDay": "40.05%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "47.01%",
-    "uptimeYear": "93.78%",
+    "status": "down",
+    "uptime": "93.99%",
+    "uptimeDay": "39.90%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "47.00%",
+    "uptimeYear": "93.99%",
     "time": 7417,
     "timeDay": 8916,
     "timeWeek": 8518,
     "timeMonth": 9052,
     "timeYear": 7417,
     "dailyMinutesDown": {
-      "2023-10-06": 26,
+      "2023-10-06": 28,
       "2023-10-05": 837,
       "2023-10-04": 24,
       "2023-10-02": 54,
@@ -2586,7 +2586,7 @@
       "2023-09-04": 1139,
       "2023-09-03": 1144,
       "2023-09-02": 1229,
-      "2023-09-01": 963
+      "2023-09-01": 30
     }
   }
 ]
