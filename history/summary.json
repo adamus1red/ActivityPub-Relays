@@ -36,19 +36,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "46.34%",
-    "uptimeWeek": "89.58%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "46.92%",
+    "uptimeWeek": "89.56%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.05%",
     "time": 3339,
     "timeDay": 12641,
     "timeWeek": 10924,
     "timeMonth": 6500,
     "timeYear": 3339,
     "dailyMinutesDown": {
-      "2023-10-08": 168,
+      "2023-10-08": 171,
       "2023-10-07": 836,
       "2023-10-06": 46,
       "2023-08-23": 16,
@@ -57,8 +57,7 @@
       "2023-08-09": 782,
       "2023-08-08": 595,
       "2023-08-07": 562,
-      "2023-08-06": 375,
-      "2023-08-05": 48
+      "2023-08-06": 292
     }
   },
   {
@@ -140,7 +139,7 @@
     "uptime": "70.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.93%",
+    "uptimeMonth": "30.91%",
     "uptimeYear": "70.40%",
     "time": 446,
     "timeDay": 0,
@@ -148,7 +147,7 @@
     "timeMonth": 1503,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-10-08": 448,
+      "2023-10-08": 459,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -434,18 +433,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedi.agency.ico",
     "slug": "relay-fedi-agency",
     "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "94.28%",
+    "uptime": "94.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "94.27%",
     "time": 4302,
     "timeDay": 496,
     "timeWeek": 385,
     "timeMonth": 411,
     "timeYear": 4302,
     "dailyMinutesDown": {
-      "2023-10-08": 10,
       "2023-09-05": 59,
       "2023-08-25": 508,
       "2023-08-24": 1440,
@@ -522,7 +520,7 @@
       "2023-01-02": 126,
       "2023-01-01": 20,
       "2022-12-31": 59,
-      "2022-12-30": 28
+      "2022-12-30": 55
     }
   },
   {
@@ -533,7 +531,7 @@
     "status": "down",
     "uptime": "93.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.70%",
+    "uptimeWeek": "76.59%",
     "uptimeMonth": "64.00%",
     "uptimeYear": "93.97%",
     "time": 2089,
@@ -542,7 +540,7 @@
     "timeMonth": 624,
     "timeYear": 2089,
     "dailyMinutesDown": {
-      "2023-10-08": 449,
+      "2023-10-08": 460,
       "2023-10-07": 1440,
       "2023-10-06": 460,
       "2023-09-17": 912,
@@ -832,7 +830,7 @@
     "timeMonth": 218,
     "timeYear": 8565,
     "dailyMinutesDown": {
-      "2023-10-08": 449,
+      "2023-10-08": 460,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -1181,7 +1179,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-10-08": 449,
+      "2023-10-08": 460,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -1379,7 +1377,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-10-08": 449,
+      "2023-10-08": 460,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -1850,7 +1848,7 @@
     "uptime": "90.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.70%",
+    "uptimeMonth": "12.67%",
     "uptimeYear": "90.95%",
     "time": 4867,
     "timeDay": 764,
@@ -1858,7 +1856,7 @@
     "timeMonth": 629,
     "timeYear": 4867,
     "dailyMinutesDown": {
-      "2023-10-08": 449,
+      "2023-10-08": 460,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -2027,7 +2025,7 @@
     "timeMonth": 129,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-10-08": 450,
+      "2023-10-08": 461,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -2164,7 +2162,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-08": 450,
+      "2023-10-08": 461,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -2576,7 +2574,7 @@
     "timeMonth": 8535,
     "timeYear": 7340,
     "dailyMinutesDown": {
-      "2023-10-08": 439,
+      "2023-10-08": 450,
       "2023-10-07": 1023,
       "2023-10-06": 570,
       "2023-10-05": 837,
