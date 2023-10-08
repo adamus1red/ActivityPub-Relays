@@ -1,7 +1,7 @@
 url: https://relay.masto.social/actor
-status: down
-code: 502
-responseTime: 134
-lastUpdated: 2023-10-08T14:33:58.040Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2023-10-08T15:07:20.834Z
 startTime: 2022-11-15T19:13:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
