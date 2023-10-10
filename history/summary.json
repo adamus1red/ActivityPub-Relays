@@ -139,7 +139,7 @@
     "uptime": "70.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.12%",
+    "uptimeMonth": "25.07%",
     "uptimeYear": "70.02%",
     "time": 446,
     "timeDay": 0,
@@ -147,7 +147,7 @@
     "timeMonth": 1521,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-10-10": 114,
+      "2023-10-10": 138,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -533,7 +533,7 @@
     "status": "down",
     "uptime": "93.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.44%",
+    "uptimeWeek": "51.21%",
     "uptimeMonth": "64.00%",
     "uptimeYear": "93.46%",
     "time": 2081,
@@ -542,7 +542,7 @@
     "timeMonth": 621,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-10-10": 115,
+      "2023-10-10": 139,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -696,7 +696,7 @@
     "uptime": "74.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.48%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "74.43%",
     "time": 8442,
     "timeDay": 1159,
@@ -834,7 +834,7 @@
     "timeMonth": 215,
     "timeYear": 8533,
     "dailyMinutesDown": {
-      "2023-10-10": 115,
+      "2023-10-10": 139,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -989,7 +989,7 @@
     "slug": "relay-intahnet-co-uk",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "86.55%",
     "uptimeWeek": "90.55%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "98.78%",
@@ -1187,7 +1187,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-10-10": 115,
+      "2023-10-10": 139,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -1387,7 +1387,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-10-10": 115,
+      "2023-10-10": 139,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -1860,7 +1860,7 @@
     "uptime": "90.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.89%",
+    "uptimeMonth": "6.83%",
     "uptimeYear": "90.46%",
     "time": 4863,
     "timeDay": 759,
@@ -1868,7 +1868,7 @@
     "timeMonth": 640,
     "timeYear": 4863,
     "dailyMinutesDown": {
-      "2023-10-10": 115,
+      "2023-10-10": 139,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -2041,7 +2041,7 @@
     "timeMonth": 131,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2023-10-10": 116,
+      "2023-10-10": 140,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -2180,7 +2180,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-10": 116,
+      "2023-10-10": 140,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -2582,11 +2582,11 @@
     "url": "https://relay.national-defence.network/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
-    "status": "up",
+    "status": "down",
     "uptime": "94.21%",
-    "uptimeDay": "26.95%",
-    "uptimeWeek": "54.62%",
-    "uptimeMonth": "48.18%",
+    "uptimeDay": "28.46%",
+    "uptimeWeek": "54.60%",
+    "uptimeMonth": "48.23%",
     "uptimeYear": "94.21%",
     "time": 7352,
     "timeDay": 7728,
@@ -2594,7 +2594,7 @@
     "timeMonth": 8695,
     "timeYear": 7352,
     "dailyMinutesDown": {
-      "2023-10-10": 114,
+      "2023-10-10": 116,
       "2023-10-09": 952,
       "2023-10-08": 1055,
       "2023-10-07": 1023,
@@ -2627,7 +2627,7 @@
       "2023-09-08": 1092,
       "2023-09-07": 1016,
       "2023-09-06": 771,
-      "2023-09-05": 47
+      "2023-09-05": 28
     }
   }
 ]
