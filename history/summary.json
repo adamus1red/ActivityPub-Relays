@@ -36,10 +36,10 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "51.10%",
-    "uptimeWeek": "47.91%",
+    "uptimeDay": "51.03%",
+    "uptimeWeek": "47.90%",
     "uptimeMonth": "88.01%",
     "uptimeYear": "98.51%",
     "time": 3459,
@@ -48,7 +48,7 @@
     "timeMonth": 10554,
     "timeYear": 3459,
     "dailyMinutesDown": {
-      "2023-10-13": 650,
+      "2023-10-13": 651,
       "2023-10-12": 684,
       "2023-10-11": 725,
       "2023-10-10": 822,
@@ -59,7 +59,7 @@
       "2023-08-23": 16,
       "2023-08-11": 405,
       "2023-08-10": 780,
-      "2023-08-09": 670
+      "2023-08-09": 646
     }
   },
   {
@@ -142,7 +142,7 @@
     "uptime": "69.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.96%",
+    "uptimeMonth": "12.93%",
     "uptimeYear": "69.24%",
     "time": 446,
     "timeDay": 0,
@@ -150,7 +150,7 @@
     "timeMonth": 1686,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-10-13": 1123,
+      "2023-10-13": 1133,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -549,7 +549,7 @@
     "timeMonth": 632,
     "timeYear": 2070,
     "dailyMinutesDown": {
-      "2023-10-13": 1123,
+      "2023-10-13": 1134,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -833,18 +833,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "down",
-    "uptime": "60.54%",
+    "uptime": "60.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.54%",
+    "uptimeYear": "60.53%",
     "time": 8487,
     "timeDay": 249,
     "timeWeek": 190,
     "timeMonth": 218,
     "timeYear": 8487,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1134,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -1203,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1134,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -1406,7 +1406,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1134,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -1890,7 +1890,7 @@
     "timeMonth": 636,
     "timeYear": 4859,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1134,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -2068,7 +2068,7 @@
     "timeMonth": 141,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1135,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -2210,7 +2210,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-13": 1124,
+      "2023-10-13": 1135,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
