@@ -36,11 +36,11 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
+    "status": "down",
     "uptime": "94.06%",
-    "uptimeDay": "57.22%",
-    "uptimeWeek": "14.85%",
-    "uptimeMonth": "31.40%",
+    "uptimeDay": "57.15%",
+    "uptimeWeek": "14.95%",
+    "uptimeMonth": "31.44%",
     "uptimeYear": "94.06%",
     "time": 3566,
     "timeDay": 15781,
@@ -48,7 +48,7 @@
     "timeMonth": 12991,
     "timeYear": 3566,
     "dailyMinutesDown": {
-      "2023-11-02": 19,
+      "2023-11-02": 20,
       "2023-11-01": 745,
       "2023-10-31": 898,
       "2023-10-30": 1440,
@@ -75,7 +75,7 @@
       "2023-10-09": 704,
       "2023-10-08": 784,
       "2023-10-07": 836,
-      "2023-10-06": 46
+      "2023-10-06": 27
     }
   },
   {
@@ -158,8 +158,8 @@
     "status": "up",
     "uptime": "67.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "19.56%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "19.58%",
     "uptimeYear": "67.27%",
     "time": 450,
     "timeDay": 527,
@@ -571,8 +571,8 @@
     "status": "down",
     "uptime": "87.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.18%",
-    "uptimeMonth": "18.66%",
+    "uptimeWeek": "11.07%",
+    "uptimeMonth": "18.64%",
     "uptimeYear": "87.82%",
     "time": 1995,
     "timeDay": 716,
@@ -580,7 +580,7 @@
     "timeMonth": 630,
     "timeYear": 1995,
     "dailyMinutesDown": {
-      "2023-11-02": 280,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -898,7 +898,7 @@
     "timeMonth": 205,
     "timeYear": 8203,
     "dailyMinutesDown": {
-      "2023-11-02": 280,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -1290,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-11-02": 280,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -1513,7 +1513,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-11-02": 280,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -2008,8 +2008,8 @@
     "status": "up",
     "uptime": "86.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.85%",
-    "uptimeMonth": "15.55%",
+    "uptimeWeek": "75.96%",
+    "uptimeMonth": "15.57%",
     "uptimeYear": "86.02%",
     "time": 4812,
     "timeDay": 484,
@@ -2161,7 +2161,7 @@
     "timeMonth": 895,
     "timeYear": 2886,
     "dailyMinutesDown": {
-      "2023-11-02": 281,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -2229,7 +2229,7 @@
     "timeMonth": 143,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2023-11-02": 281,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -2390,7 +2390,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-11-02": 281,
+      "2023-11-02": 291,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -2816,18 +2816,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "up",
-    "uptime": "95.24%",
-    "uptimeDay": "4.82%",
-    "uptimeWeek": "36.64%",
-    "uptimeMonth": "46.11%",
-    "uptimeYear": "95.24%",
+    "uptime": "95.07%",
+    "uptimeDay": "6.15%",
+    "uptimeWeek": "36.73%",
+    "uptimeMonth": "46.13%",
+    "uptimeYear": "95.07%",
     "time": 7560,
     "timeDay": 4387,
     "timeWeek": 4974,
     "timeMonth": 8169,
     "timeYear": 7560,
     "dailyMinutesDown": {
-      "2023-11-02": 212,
+      "2023-11-02": 203,
       "2023-11-01": 1440,
       "2023-10-31": 1141,
       "2023-10-30": 866,
@@ -2858,7 +2858,7 @@
       "2023-10-05": 837,
       "2023-10-04": 24,
       "2023-10-02": 54,
-      "2023-10-01": 62
+      "2023-10-01": 949
     }
   }
 ]
