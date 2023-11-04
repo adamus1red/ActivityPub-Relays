@@ -36,11 +36,11 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
+    "status": "down",
     "uptime": "94.17%",
-    "uptimeDay": "44.45%",
-    "uptimeWeek": "33.98%",
-    "uptimeMonth": "32.13%",
+    "uptimeDay": "44.37%",
+    "uptimeWeek": "34.08%",
+    "uptimeMonth": "32.17%",
     "uptimeYear": "94.17%",
     "time": 3703,
     "timeDay": 14180,
@@ -48,7 +48,7 @@
     "timeMonth": 14397,
     "timeYear": 3703,
     "dailyMinutesDown": {
-      "2023-11-04": 800,
+      "2023-11-04": 801,
       "2023-11-03": 756,
       "2023-11-02": 532,
       "2023-11-01": 745,
@@ -73,7 +73,7 @@
       "2023-10-13": 703,
       "2023-10-12": 684,
       "2023-10-11": 725,
-      "2023-10-10": 804
+      "2023-10-10": 784
     }
   },
   {
@@ -157,7 +157,7 @@
     "uptime": "67.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.68%",
+    "uptimeMonth": "28.70%",
     "uptimeYear": "67.53%",
     "time": 452,
     "timeDay": 0,
@@ -570,7 +570,7 @@
     "uptime": "87.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.54%",
+    "uptimeMonth": "9.52%",
     "uptimeYear": "87.13%",
     "time": 1988,
     "timeDay": 0,
@@ -578,7 +578,7 @@
     "timeMonth": 602,
     "timeYear": 1988,
     "dailyMinutesDown": {
-      "2023-11-04": 1395,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -900,7 +900,7 @@
     "timeMonth": 203,
     "timeYear": 8175,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1294,7 +1294,7 @@
     "timeMonth": 0,
     "timeYear": 5541,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -1519,7 +1519,7 @@
     "timeMonth": 0,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -2017,7 +2017,7 @@
     "uptime": "86.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "24.62%",
+    "uptimeMonth": "24.64%",
     "uptimeYear": "86.14%",
     "time": 4796,
     "timeDay": 0,
@@ -2161,7 +2161,7 @@
     "uptime": "93.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.28%",
+    "uptimeMonth": "28.26%",
     "uptimeYear": "93.06%",
     "time": 2883,
     "timeDay": 0,
@@ -2169,7 +2169,7 @@
     "timeMonth": 928,
     "timeYear": 2883,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -2239,7 +2239,7 @@
     "timeMonth": 144,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -2402,7 +2402,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-11-04": 1396,
+      "2023-11-04": 1406,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
