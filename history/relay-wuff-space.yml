@@ -1,7 +1,7 @@
 url: https://relay.wuff.space/actor
-status: up
-code: 200
-responseTime: 1038
-lastUpdated: 2023-11-28T23:49:32.556Z
+status: down
+code: 502
+responseTime: 12662
+lastUpdated: 2023-11-29T17:52:25.968Z
 startTime: 2022-11-15T19:12:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
