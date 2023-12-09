@@ -34,15 +34,15 @@
     "uptime": "96.45%",
     "uptimeDay": "1.06%",
     "uptimeWeek": "4.27%",
-    "uptimeMonth": "54.66%",
+    "uptimeMonth": "54.64%",
     "uptimeYear": "96.22%",
     "time": 4664,
     "timeDay": 12411,
     "timeWeek": 13806,
     "timeMonth": 16584,
-    "timeYear": 4752,
+    "timeYear": 4753,
     "dailyMinutesDown": {
-      "2023-12-09": 316,
+      "2023-12-09": 326,
       "2023-12-08": 1423,
       "2023-12-07": 1409,
       "2023-12-06": 1427,
@@ -442,7 +442,7 @@
     "timeDay": 442,
     "timeWeek": 437,
     "timeMonth": 408,
-    "timeYear": 1875,
+    "timeYear": 1871,
     "dailyMinutesDown": {
       "2023-12-08": 16,
       "2023-12-07": 1351,
@@ -551,7 +551,7 @@
     "timeMonth": 653,
     "timeYear": 1856,
     "dailyMinutesDown": {
-      "2023-12-09": 332,
+      "2023-12-09": 342,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -880,7 +880,7 @@
     "timeMonth": 217,
     "timeYear": 5072,
     "dailyMinutesDown": {
-      "2023-12-09": 333,
+      "2023-12-09": 342,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -1286,7 +1286,7 @@
     "timeMonth": 0,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-12-09": 333,
+      "2023-12-09": 343,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -1517,11 +1517,11 @@
     "url": "https://relay.mstdn.live/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "48.00%",
-    "uptimeWeek": "58.62%",
-    "uptimeMonth": "90.48%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "47.86%",
+    "uptimeWeek": "58.80%",
+    "uptimeMonth": "90.52%",
     "uptimeYear": "99.21%",
     "time": 498,
     "timeDay": 244,
@@ -1529,13 +1529,13 @@
     "timeMonth": 424,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2023-12-09": 282,
+      "2023-12-09": 284,
       "2023-12-08": 618,
       "2023-12-07": 632,
       "2023-12-06": 659,
       "2023-12-05": 758,
       "2023-12-04": 704,
-      "2023-12-03": 523
+      "2023-12-03": 503
     }
   },
   {
@@ -1673,17 +1673,16 @@
     "slug": "relay-wagnersnetz-de",
     "status": "up",
     "uptime": "87.50%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "86.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "86.69%",
     "time": 4603,
     "timeDay": 563,
     "timeWeek": 580,
     "timeMonth": 642,
     "timeYear": 4625,
     "dailyMinutesDown": {
-      "2023-12-09": 11,
       "2023-12-03": 31,
       "2023-12-02": 21,
       "2023-11-24": 20,
@@ -1780,7 +1779,7 @@
       "2023-08-05": 46,
       "2023-08-04": 20,
       "2023-08-03": 220,
-      "2023-07-31": 29
+      "2023-07-31": 46
     }
   },
   {
@@ -1826,7 +1825,7 @@
     "timeMonth": 484,
     "timeYear": 2347,
     "dailyMinutesDown": {
-      "2023-12-09": 333,
+      "2023-12-09": 343,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -1916,8 +1915,8 @@
     "slug": "relay-wuff-space",
     "status": "down",
     "uptime": "65.51%",
-    "uptimeDay": "29.45%",
-    "uptimeWeek": "87.80%",
+    "uptimeDay": "28.77%",
+    "uptimeWeek": "87.70%",
     "uptimeMonth": "67.06%",
     "uptimeYear": "63.30%",
     "time": 2263,
@@ -1926,7 +1925,7 @@
     "timeMonth": 8846,
     "timeYear": 2381,
     "dailyMinutesDown": {
-      "2023-12-09": 334,
+      "2023-12-09": 343,
       "2023-12-08": 682,
       "2023-12-07": 50,
       "2023-12-06": 26,
@@ -2106,7 +2105,7 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-12-09": 334,
+      "2023-12-09": 344,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
