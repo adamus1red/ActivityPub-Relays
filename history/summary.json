@@ -30,19 +30,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "96.14%",
-    "uptimeDay": "3.61%",
-    "uptimeWeek": "3.50%",
-    "uptimeMonth": "50.55%",
-    "uptimeYear": "95.88%",
-    "time": 4684,
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "4.87%",
+    "uptimeWeek": "3.68%",
+    "uptimeMonth": "50.64%",
+    "uptimeYear": "95.89%",
+    "time": 4685,
     "timeDay": 19039,
     "timeWeek": 15596,
     "timeMonth": 16480,
     "timeYear": 4815,
     "dailyMinutesDown": {
-      "2023-12-10": 932,
+      "2023-12-10": 933,
       "2023-12-09": 1412,
       "2023-12-08": 1423,
       "2023-12-07": 1409,
@@ -61,7 +61,7 @@
       "2023-11-24": 883,
       "2023-11-23": 828,
       "2023-11-22": 754,
-      "2023-11-21": 523
+      "2023-11-21": 482
     }
   },
   {
@@ -551,7 +551,7 @@
     "timeMonth": 644,
     "timeYear": 1856,
     "dailyMinutesDown": {
-      "2023-12-10": 972,
+      "2023-12-10": 992,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -870,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "down",
-    "uptime": "51.55%",
+    "uptime": "51.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -881,7 +881,7 @@
     "timeMonth": 212,
     "timeYear": 5072,
     "dailyMinutesDown": {
-      "2023-12-10": 973,
+      "2023-12-10": 992,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-12-10": 973,
+      "2023-12-10": 993,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -1828,7 +1828,7 @@
     "timeMonth": 482,
     "timeYear": 2353,
     "dailyMinutesDown": {
-      "2023-12-10": 973,
+      "2023-12-10": 993,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -1920,7 +1920,7 @@
     "status": "down",
     "uptime": "65.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.16%",
+    "uptimeWeek": "66.97%",
     "uptimeMonth": "67.06%",
     "uptimeYear": "62.90%",
     "time": 2263,
@@ -1929,7 +1929,7 @@
     "timeMonth": 8846,
     "timeYear": 2385,
     "dailyMinutesDown": {
-      "2023-12-10": 974,
+      "2023-12-10": 993,
       "2023-12-09": 1440,
       "2023-12-08": 682,
       "2023-12-07": 50,
@@ -2110,7 +2110,7 @@
     "timeMonth": 0,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2023-12-10": 974,
+      "2023-12-10": 993,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
