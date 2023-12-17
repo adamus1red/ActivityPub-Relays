@@ -1,7 +1,7 @@
 url: https://relay.mstdn.live/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-17T08:23:58.947Z
+status: up
+code: 200
+responseTime: 59
+lastUpdated: 2023-12-17T08:33:02.771Z
 startTime: 2022-11-15T19:13:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
