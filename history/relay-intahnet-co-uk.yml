@@ -1,7 +1,7 @@
 url: https://relay.intahnet.co.uk/actor
-status: down
-code: 502
-responseTime: 675
-lastUpdated: 2023-12-26T04:35:35.220Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2023-12-26T08:51:25.997Z
 startTime: 2022-11-15T19:13:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
