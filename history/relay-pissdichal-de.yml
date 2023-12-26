@@ -1,7 +1,7 @@
 url: https://relay.pissdichal.de/actor
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2023-12-25T23:15:43.450Z
+status: down
+code: 502
+responseTime: 380
+lastUpdated: 2023-12-26T10:42:50.439Z
 startTime: 2022-11-15T23:05:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
