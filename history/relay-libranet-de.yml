@@ -1,7 +1,7 @@
 url: https://relay.libranet.de/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-18T04:34:31.396Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2024-01-18T05:08:21.455Z
 startTime: 2022-11-15T19:12:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
