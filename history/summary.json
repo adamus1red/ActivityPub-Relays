@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
     "status": "down",
-    "uptime": "92.93%",
+    "uptime": "92.92%",
     "uptimeDay": "2.50%",
     "uptimeWeek": "3.24%",
     "uptimeMonth": "2.90%",
-    "uptimeYear": "91.57%",
+    "uptimeYear": "91.56%",
     "time": 5216,
     "timeDay": 24422,
     "timeWeek": 14772,
     "timeMonth": 14351,
     "timeYear": 5292,
     "dailyMinutesDown": {
-      "2024-01-24": 1365,
+      "2024-01-25": 56,
+      "2024-01-24": 1404,
       "2024-01-23": 1430,
       "2024-01-22": 1377,
       "2024-01-21": 1428,
@@ -142,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
     "status": "up",
-    "uptime": "73.56%",
+    "uptime": "73.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "68.53%",
+    "uptimeYear": "68.55%",
     "time": 476,
     "timeDay": 609,
     "timeWeek": 853,
@@ -282,8 +283,7 @@
       "2023-04-02": 16,
       "2023-03-17": 40,
       "2023-02-20": 21,
-      "2023-02-19": 28,
-      "2023-01-25": 365
+      "2023-02-19": 28
     }
   },
   {
@@ -415,9 +415,9 @@
     "slug": "relay-fedi-agency",
     "status": "up",
     "uptime": "95.04%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "97.02%",
     "time": 492,
     "timeDay": 467,
@@ -425,7 +425,6 @@
     "timeMonth": 418,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-01-24": 5,
       "2024-01-22": 57,
       "2024-01-18": 31,
       "2024-01-05": 17,
@@ -498,8 +497,7 @@
       "2023-01-31": 16,
       "2023-01-29": 20,
       "2023-01-28": 21,
-      "2023-01-27": 16,
-      "2023-01-25": 33
+      "2023-01-27": 16
     }
   },
   {
@@ -508,18 +506,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedibird.com.ico",
     "slug": "relay-fedibird-com",
     "status": "up",
-    "uptime": "77.53%",
+    "uptime": "77.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.95%",
-    "uptimeYear": "74.07%",
+    "uptimeMonth": "7.74%",
+    "uptimeYear": "74.05%",
     "time": 1842,
     "timeDay": 521,
     "timeWeek": 471,
     "timeMonth": 1519,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2024-01-24": 1401,
+      "2024-01-25": 56,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -626,8 +625,7 @@
       "2023-05-01": 437,
       "2023-04-30": 286,
       "2023-03-22": 22,
-      "2023-01-28": 20,
-      "2023-01-25": 20
+      "2023-01-28": 20
     }
   },
   {
@@ -727,10 +725,10 @@
     "slug": "relay-glauca-space",
     "status": "up",
     "uptime": "82.89%",
-    "uptimeDay": "8.53%",
+    "uptimeDay": "15.13%",
     "uptimeWeek": "35.30%",
     "uptimeMonth": "85.03%",
-    "uptimeYear": "86.09%",
+    "uptimeYear": "86.11%",
     "time": 5176,
     "timeDay": 820,
     "timeWeek": 909,
@@ -829,8 +827,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1424,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -839,18 +836,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "down",
-    "uptime": "46.18%",
+    "uptime": "46.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.79%",
+    "uptimeYear": "39.77%",
     "time": 2800,
     "timeDay": 184,
     "timeWeek": 163,
     "timeMonth": 202,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-01-24": 1402,
+      "2024-01-25": 57,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1082,7 +1080,7 @@
     "status": "up",
     "uptime": "97.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.49%",
+    "uptimeWeek": "85.43%",
     "uptimeMonth": "68.50%",
     "uptimeYear": "97.36%",
     "time": 2721,
@@ -1180,8 +1178,7 @@
       "2023-02-26": 20,
       "2023-02-08": 16,
       "2023-01-31": 738,
-      "2023-01-30": 249,
-      "2023-01-25": 30
+      "2023-01-30": 249
     }
   },
   {
@@ -1236,10 +1233,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
     "status": "up",
-    "uptime": "42.50%",
+    "uptime": "42.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.23%",
+    "uptimeMonth": "62.45%",
     "uptimeYear": "37.19%",
     "time": 2930,
     "timeDay": 1458,
@@ -1479,8 +1476,7 @@
       "2023-05-21": 976,
       "2023-05-19": 28,
       "2023-02-16": 25,
-      "2023-02-14": 32,
-      "2023-01-25": 80
+      "2023-02-14": 32
     }
   },
   {
@@ -1489,18 +1485,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "91.01%",
+    "uptime": "91.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.28%",
+    "uptimeYear": "89.27%",
     "time": 503,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-01-24": 1402,
+      "2024-01-25": 57,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1553,7 +1550,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.pissdichal.de.ico",
     "slug": "relay-pissdichal-de",
     "status": "up",
-    "uptime": "83.82%",
+    "uptime": "83.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.99%",
@@ -1644,8 +1641,7 @@
       "2023-02-06": 129,
       "2023-02-05": 25,
       "2023-02-03": 910,
-      "2023-01-31": 205,
-      "2023-01-25": 50
+      "2023-01-31": 205
     }
   },
   {
@@ -1667,8 +1663,7 @@
     "dailyMinutesDown": {
       "2023-07-02": 22,
       "2023-06-09": 68,
-      "2023-03-18": 17,
-      "2023-01-25": 20
+      "2023-03-18": 17
     }
   },
   {
@@ -1684,9 +1679,9 @@
     "uptimeYear": "86.80%",
     "time": 3640,
     "timeDay": 639,
-    "timeWeek": 653,
-    "timeMonth": 628,
-    "timeYear": 3425,
+    "timeWeek": 650,
+    "timeMonth": 626,
+    "timeYear": 3420,
     "dailyMinutesDown": {
       "2024-01-23": 16,
       "2024-01-22": 22,
@@ -1822,18 +1817,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "77.76%",
+    "uptime": "77.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.49%",
+    "uptimeYear": "73.47%",
     "time": 2559,
     "timeDay": 324,
     "timeWeek": 272,
     "timeMonth": 324,
     "timeYear": 2388,
     "dailyMinutesDown": {
-      "2024-01-24": 1402,
+      "2024-01-25": 57,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1968,18 +1964,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wuff.space.ico",
     "slug": "relay-wuff-space",
     "status": "down",
-    "uptime": "58.48%",
+    "uptime": "58.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.49%",
+    "uptimeYear": "50.48%",
     "time": 2273,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2606,
     "dailyMinutesDown": {
-      "2024-01-24": 1402,
+      "2024-01-25": 58,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -2205,7 +2202,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 1402,
+      "2024-01-25": 58,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -2568,8 +2566,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -2643,8 +2640,7 @@
     "timeMonth": 827,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2023-02-21": 72,
-      "2023-01-25": 15
+      "2023-02-21": 72
     }
   },
   {
