@@ -26,13 +26,13 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "93.26%",
-    "uptimeDay": "8.47%",
-    "uptimeWeek": "7.88%",
-    "uptimeMonth": "3.16%",
-    "uptimeYear": "91.65%",
-    "time": 5422,
+    "status": "down",
+    "uptime": "93.30%",
+    "uptimeDay": "9.19%",
+    "uptimeWeek": "7.98%",
+    "uptimeMonth": "3.18%",
+    "uptimeYear": "91.69%",
+    "time": 5423,
     "timeDay": 17047,
     "timeWeek": 14607,
     "timeMonth": 14268,
@@ -70,7 +70,7 @@
       "2024-01-13": 1419,
       "2024-01-12": 1340,
       "2024-01-11": 1440,
-      "2024-01-10": 1125
+      "2024-01-10": 911
     }
   },
   {
@@ -501,7 +501,7 @@
     "uptime": "76.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.45%",
+    "uptimeMonth": "27.47%",
     "uptimeYear": "71.79%",
     "time": 1881,
     "timeDay": 528,
@@ -828,7 +828,7 @@
     "timeMonth": 202,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-02-11": 349,
+      "2024-02-11": 359,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1486,7 +1486,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-02-11": 349,
+      "2024-02-11": 359,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1680,7 +1680,7 @@
     "timeDay": 702,
     "timeWeek": 616,
     "timeMonth": 895,
-    "timeYear": 2188,
+    "timeYear": 2183,
     "dailyMinutesDown": {
       "2024-02-10": 33,
       "2024-02-06": 71,
@@ -1819,7 +1819,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "74.80%",
+    "uptime": "74.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1830,7 +1830,7 @@
     "timeMonth": 310,
     "timeYear": 2382,
     "dailyMinutesDown": {
-      "2024-02-11": 350,
+      "2024-02-11": 360,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1994,7 +1994,7 @@
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2024-02-11": 350,
+      "2024-02-11": 360,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -2238,7 +2238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-11": 350,
+      "2024-02-11": 360,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
