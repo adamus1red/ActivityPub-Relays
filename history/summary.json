@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
     "status": "down",
-    "uptime": "94.04%",
+    "uptime": "94.03%",
     "uptimeDay": "7.15%",
     "uptimeWeek": "7.63%",
-    "uptimeMonth": "11.19%",
-    "uptimeYear": "92.60%",
+    "uptimeMonth": "11.06%",
+    "uptimeYear": "92.59%",
     "time": 5449,
     "timeDay": 16896,
     "timeWeek": 15261,
     "timeMonth": 14415,
     "timeYear": 5555,
     "dailyMinutesDown": {
-      "2024-02-11": 1333,
+      "2024-02-12": 51,
+      "2024-02-11": 1337,
       "2024-02-10": 1038,
       "2024-02-09": 1340,
       "2024-02-08": 1440,
@@ -137,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
     "status": "up",
-    "uptime": "74.61%",
+    "uptime": "74.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -484,8 +485,7 @@
       "2023-02-16": 65,
       "2023-02-15": 131,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1187
+      "2023-02-13": 1440
     }
   },
   {
@@ -494,10 +494,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedibird.com.ico",
     "slug": "relay-fedibird-com",
     "status": "up",
-    "uptime": "76.58%",
+    "uptime": "76.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.93%",
+    "uptimeMonth": "30.06%",
     "uptimeYear": "71.79%",
     "time": 1880,
     "timeDay": 385,
@@ -722,7 +722,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.11%",
-    "uptimeYear": "91.01%",
+    "uptimeYear": "91.02%",
     "time": 4016,
     "timeDay": 984,
     "timeWeek": 922,
@@ -803,8 +803,7 @@
       "2023-02-16": 1424,
       "2023-02-15": 1419,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1430
+      "2023-02-13": 1440
     }
   },
   {
@@ -824,7 +823,8 @@
     "timeMonth": 197,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-02-11": 1437,
+      "2024-02-12": 52,
+      "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1053,8 +1053,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1440
+      "2023-02-13": 1440
     }
   },
   {
@@ -1064,9 +1063,9 @@
     "slug": "relay-intahnet-co-uk",
     "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "93.93%",
-    "uptimeMonth": "77.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "77.15%",
     "uptimeYear": "97.31%",
     "time": 2768,
     "timeDay": 1603,
@@ -1074,7 +1073,6 @@
     "timeMonth": 3548,
     "timeYear": 3062,
     "dailyMinutesDown": {
-      "2024-02-11": 10,
       "2024-02-06": 586,
       "2024-02-05": 16,
       "2024-02-01": 38,
@@ -1097,7 +1095,7 @@
       "2023-12-29": 423,
       "2023-12-28": 824,
       "2023-12-27": 409,
-      "2023-12-26": 37
+      "2023-12-26": 60
     }
   },
   {
@@ -1473,18 +1471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "87.39%",
+    "uptime": "87.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.35%",
+    "uptimeYear": "84.34%",
     "time": 503,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-02-11": 1437,
+      "2024-02-12": 52,
+      "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1559,7 +1558,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.66%",
+    "uptimeYear": "82.67%",
     "time": 889,
     "timeDay": 645,
     "timeWeek": 540,
@@ -1637,8 +1636,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1440
+      "2023-02-13": 1440
     }
   },
   {
@@ -1669,7 +1667,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
     "status": "up",
-    "uptime": "89.35%",
+    "uptime": "89.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "98.35%",
@@ -1817,18 +1815,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "74.67%",
+    "uptime": "74.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.55%",
+    "uptimeYear": "68.54%",
     "time": 2260,
     "timeDay": 398,
     "timeWeek": 290,
     "timeMonth": 311,
     "timeYear": 2382,
     "dailyMinutesDown": {
-      "2024-02-11": 1437,
+      "2024-02-12": 52,
+      "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -1985,14 +1984,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.56%",
+    "uptimeYear": "45.55%",
     "time": 2320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2715,
     "dailyMinutesDown": {
-      "2024-02-11": 1437,
+      "2024-02-12": 52,
+      "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -2236,7 +2236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-11": 1437,
+      "2024-02-12": 52,
+      "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
@@ -2599,8 +2600,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1440
+      "2023-02-13": 1440
     }
   },
   {
@@ -2650,8 +2650,7 @@
     "dailyMinutesDown": {
       "2023-06-02": 20,
       "2023-05-19": 1154,
-      "2023-05-18": 672,
-      "2023-02-12": 123
+      "2023-05-18": 672
     }
   },
   {
@@ -2661,7 +2660,7 @@
     "slug": "relay-kretschmann-social",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "87.29%",
+    "uptimeDay": "91.10%",
     "uptimeWeek": "95.55%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.90%",
