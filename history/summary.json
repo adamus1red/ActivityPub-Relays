@@ -27,12 +27,12 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "32.62%",
-    "uptimeWeek": "30.06%",
-    "uptimeMonth": "55.12%",
-    "uptimeYear": "96.26%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "32.59%",
+    "uptimeWeek": "30.20%",
+    "uptimeMonth": "55.31%",
+    "uptimeYear": "96.28%",
     "time": 6134,
     "timeDay": 12614,
     "timeWeek": 14963,
@@ -56,7 +56,7 @@
       "2024-02-23": 1372,
       "2024-02-22": 1269,
       "2024-02-21": 1125,
-      "2024-02-20": 425
+      "2024-02-20": 339
     }
   },
   {
@@ -757,7 +757,7 @@
     "timeMonth": 212,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-03-08": 1097,
+      "2024-03-08": 1111,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1160,7 +1160,7 @@
     "uptime": "43.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.48%",
+    "uptimeMonth": "29.44%",
     "uptimeYear": "31.33%",
     "time": 697,
     "timeDay": 0,
@@ -1168,7 +1168,7 @@
     "timeMonth": 1467,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2024-03-08": 1097,
+      "2024-03-08": 1112,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1436,14 +1436,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "77.29%",
+    "uptimeYear": "77.28%",
     "time": 503,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-03-08": 1097,
+      "2024-03-08": 1112,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1789,7 +1789,7 @@
     "timeMonth": 253,
     "timeYear": 2310,
     "dailyMinutesDown": {
-      "2024-03-08": 1098,
+      "2024-03-08": 1112,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -1979,7 +1979,7 @@
     "timeMonth": 0,
     "timeYear": 2955,
     "dailyMinutesDown": {
-      "2024-03-08": 1098,
+      "2024-03-08": 1112,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
@@ -2247,7 +2247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-08": 1098,
+      "2024-03-08": 1112,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
