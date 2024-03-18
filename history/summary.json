@@ -27,13 +27,13 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "41.96%",
-    "uptimeWeek": "28.55%",
-    "uptimeMonth": "69.00%",
-    "uptimeYear": "97.42%",
-    "time": 6645,
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "42.63%",
+    "uptimeWeek": "28.65%",
+    "uptimeMonth": "69.93%",
+    "uptimeYear": "97.49%",
+    "time": 6646,
     "timeDay": 11493,
     "timeWeek": 15222,
     "timeMonth": 14942,
@@ -52,7 +52,7 @@
       "2024-03-08": 1044,
       "2024-03-07": 931,
       "2024-03-06": 1079,
-      "2024-03-05": 674
+      "2024-03-05": 269
     }
   },
   {
@@ -435,7 +435,7 @@
     "slug": "relay-fedibird-com",
     "status": "up",
     "uptime": "76.93%",
-    "uptimeDay": "25.48%",
+    "uptimeDay": "26.16%",
     "uptimeWeek": "4.68%",
     "uptimeMonth": "78.06%",
     "uptimeYear": "69.96%",
@@ -747,7 +747,7 @@
     "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-03-18": 1009,
+      "2024-03-18": 1018,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1158,7 +1158,7 @@
     "timeMonth": 0,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2024-03-18": 1009,
+      "2024-03-18": 1019,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1443,7 +1443,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-03-18": 1009,
+      "2024-03-18": 1019,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1790,7 +1790,7 @@
     "timeMonth": 197,
     "timeYear": 2308,
     "dailyMinutesDown": {
-      "2024-03-18": 1009,
+      "2024-03-18": 1019,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1990,7 +1990,7 @@
     "timeMonth": 0,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2024-03-18": 1010,
+      "2024-03-18": 1019,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -2265,7 +2265,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 1010,
+      "2024-03-18": 1019,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -2709,8 +2709,8 @@
     "status": "up",
     "uptime": "97.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "94.43%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "96.08%",
     "time": 7230,
     "timeDay": 477,
