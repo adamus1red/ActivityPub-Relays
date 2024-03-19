@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "38.67%",
-    "uptimeWeek": "28.75%",
-    "uptimeMonth": "69.96%",
-    "uptimeYear": "97.50%",
+    "uptime": "98.11%",
+    "uptimeDay": "39.26%",
+    "uptimeWeek": "29.35%",
+    "uptimeMonth": "69.54%",
+    "uptimeYear": "97.46%",
     "time": 6658,
-    "timeDay": 15370,
+    "timeDay": 16598,
     "timeWeek": 15511,
     "timeMonth": 15020,
     "timeYear": 6796,
     "dailyMinutesDown": {
-      "2024-03-18": 884,
+      "2024-03-18": 875,
       "2024-03-17": 881,
       "2024-03-16": 1076,
       "2024-03-15": 1080,
@@ -52,7 +52,7 @@
       "2024-03-08": 1044,
       "2024-03-07": 931,
       "2024-03-06": 1079,
-      "2024-03-05": 80
+      "2024-03-05": 269
     }
   },
   {
@@ -65,15 +65,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.28%",
     "time": 871,
     "timeDay": 648,
     "timeWeek": 653,
     "timeMonth": 556,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-03-21": 970,
-      "2023-03-20": 1440
+      "2023-03-21": 970
     }
   },
   {
@@ -268,7 +267,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.15%",
+    "uptimeYear": "78.16%",
     "time": 1363,
     "timeDay": 1293,
     "timeWeek": 816,
@@ -356,8 +355,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -434,9 +432,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedibird.com.ico",
     "slug": "relay-fedibird-com",
     "status": "up",
-    "uptime": "76.94%",
-    "uptimeDay": "54.43%",
-    "uptimeWeek": "7.78%",
+    "uptime": "76.95%",
+    "uptimeDay": "58.98%",
+    "uptimeWeek": "8.43%",
     "uptimeMonth": "78.06%",
     "uptimeYear": "69.96%",
     "time": 1792,
@@ -747,7 +745,8 @@
     "timeMonth": 219,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-03-18": 1426,
+      "2024-03-19": 51,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -976,8 +975,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -1093,8 +1091,7 @@
       "2023-03-24": 323,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1334
+      "2023-03-21": 1440
     }
   },
   {
@@ -1151,14 +1148,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "28.53%",
+    "uptimeYear": "28.52%",
     "time": 621,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-03-18": 1426,
+      "2024-03-19": 51,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1432,18 +1430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "80.96%",
+    "uptime": "80.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "74.48%",
+    "uptimeYear": "74.47%",
     "time": 503,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-03-18": 1426,
+      "2024-03-19": 51,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1554,7 +1553,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.24%",
+    "uptimeYear": "92.25%",
     "time": 843,
     "timeDay": 635,
     "timeWeek": 465,
@@ -1597,8 +1596,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -1779,18 +1777,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "69.18%",
+    "uptime": "69.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "58.69%",
+    "uptimeYear": "58.68%",
     "time": 2253,
     "timeDay": 231,
     "timeWeek": 175,
     "timeMonth": 196,
     "timeYear": 2308,
     "dailyMinutesDown": {
-      "2024-03-18": 1427,
+      "2024-03-19": 52,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -1979,18 +1978,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wuff.space.ico",
     "slug": "relay-wuff-space",
     "status": "down",
-    "uptime": "52.02%",
+    "uptime": "52.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "35.77%",
+    "uptimeYear": "35.76%",
     "time": 2423,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2024-03-18": 1427,
+      "2024-03-19": 52,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -2244,8 +2244,7 @@
       "2023-03-29": 16,
       "2023-03-28": 45,
       "2023-03-26": 40,
-      "2023-03-21": 110,
-      "2023-03-20": 679
+      "2023-03-21": 110
     }
   },
   {
@@ -2265,7 +2264,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 1427,
+      "2024-03-19": 52,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -2628,8 +2628,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -2710,7 +2709,7 @@
     "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.22%",
-    "uptimeMonth": "95.36%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "96.08%",
     "time": 7218,
     "timeDay": 615,
