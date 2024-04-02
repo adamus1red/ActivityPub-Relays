@@ -1,7 +1,7 @@
 url: https://relay.glauca.space/actor
-status: up
-code: 200
-responseTime: 771
-lastUpdated: 2024-04-01T23:15:08.690Z
+status: down
+code: 502
+responseTime: 14191
+lastUpdated: 2024-04-02T13:16:56.719Z
 startTime: 2022-11-15T19:13:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
