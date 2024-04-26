@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "34.49%",
-    "uptimeWeek": "33.58%",
-    "uptimeMonth": "74.35%",
-    "uptimeYear": "97.86%",
+    "uptime": "98.51%",
+    "uptimeDay": "35.08%",
+    "uptimeWeek": "33.67%",
+    "uptimeMonth": "74.26%",
+    "uptimeYear": "97.85%",
     "time": 8282,
     "timeDay": 12937,
     "timeWeek": 13506,
-    "timeMonth": 14822,
-    "timeYear": 8331,
+    "timeMonth": 14840,
+    "timeYear": 8333,
     "dailyMinutesDown": {
-      "2024-04-25": 945,
+      "2024-04-25": 936,
       "2024-04-24": 1024,
       "2024-04-23": 788,
       "2024-04-22": 1017,
@@ -52,7 +52,7 @@
       "2024-04-16": 1041,
       "2024-04-15": 923,
       "2024-04-14": 600,
-      "2024-04-13": 137
+      "2024-04-13": 187
     }
   },
   {
@@ -258,7 +258,7 @@
     "status": "up",
     "uptime": "75.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.41%",
+    "uptimeWeek": "81.62%",
     "uptimeMonth": "91.82%",
     "uptimeYear": "87.88%",
     "time": 947,
@@ -314,8 +314,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   },
   {
@@ -327,15 +326,16 @@
     "uptime": "92.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.75%",
-    "uptimeYear": "92.87%",
+    "uptimeMonth": "38.71%",
+    "uptimeYear": "92.86%",
     "time": 466,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 356,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2024-04-25": 1420,
+      "2024-04-26": 1,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -412,7 +412,7 @@
     "uptime": "73.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.73%",
+    "uptimeMonth": "26.78%",
     "uptimeYear": "62.64%",
     "time": 1416,
     "timeDay": 455,
@@ -654,8 +654,7 @@
       "2023-05-04": 71,
       "2023-05-03": 5,
       "2023-05-02": 135,
-      "2023-04-30": 100,
-      "2023-04-27": 57
+      "2023-04-30": 100
     }
   },
   {
@@ -741,7 +740,8 @@
     "timeMonth": 211,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 2,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -1171,7 +1171,7 @@
     "uptime": "44.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.81%",
+    "uptimeMonth": "85.86%",
     "uptimeYear": "25.43%",
     "time": 1354,
     "timeDay": 785,
@@ -1467,7 +1467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "75.13%",
+    "uptime": "75.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1478,7 +1478,8 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 2,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -1676,18 +1677,19 @@
     "url": "https://relay.wagnersnetz.de/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
-    "status": "up",
-    "uptime": "90.93%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.64%",
+    "status": "down",
+    "uptime": "90.94%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "86.90%",
+    "uptimeYear": "86.92%",
     "time": 885,
-    "timeDay": 568,
+    "timeDay": 571,
     "timeWeek": 584,
     "timeMonth": 577,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2024-04-26": 2,
       "2024-04-25": 19,
       "2024-04-24": 17,
       "2024-04-18": 19,
@@ -1804,8 +1806,7 @@
       "2023-09-11": 322,
       "2023-09-10": 30,
       "2023-09-08": 24,
-      "2023-09-07": 141,
-      "2023-09-06": 4
+      "2023-09-07": 44
     }
   },
   {
@@ -1846,7 +1847,8 @@
     "timeMonth": 253,
     "timeYear": 2248,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 2,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -2077,14 +2079,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.41%",
+    "uptimeYear": "27.40%",
     "time": 2795,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3724,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 3,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -2362,8 +2365,7 @@
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 787,
-      "2023-04-28": 371,
-      "2023-04-27": 322
+      "2023-04-28": 371
     }
   },
   {
@@ -2383,7 +2385,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 3,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -2746,8 +2749,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   },
   {
@@ -2827,10 +2829,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "down",
-    "uptime": "92.09%",
+    "uptime": "92.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.80%",
+    "uptimeMonth": "10.75%",
     "uptimeYear": "88.68%",
     "time": 6377,
     "timeDay": 478,
@@ -2838,7 +2840,8 @@
     "timeMonth": 457,
     "timeYear": 5956,
     "dailyMinutesDown": {
-      "2024-04-25": 1421,
+      "2024-04-26": 3,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
