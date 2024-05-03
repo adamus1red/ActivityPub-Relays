@@ -1,7 +1,7 @@
 url: https://relay.froth.zone/actor
-status: down
-code: 503
-responseTime: 419
-lastUpdated: 2024-05-03T00:00:05.809Z
+status: up
+code: 200
+responseTime: 328
+lastUpdated: 2024-05-03T01:22:02.726Z
 startTime: 2022-11-15T19:13:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
