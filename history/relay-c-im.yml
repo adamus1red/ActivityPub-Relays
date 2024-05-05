@@ -1,7 +1,7 @@
 url: https://relay.c.im/actor
-status: down
-code: 502
-responseTime: 635
-lastUpdated: 2024-05-04T23:15:10.797Z
+status: up
+code: 200
+responseTime: 374
+lastUpdated: 2024-05-05T00:51:37.973Z
 startTime: 2022-11-15T23:02:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
