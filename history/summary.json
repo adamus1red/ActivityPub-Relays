@@ -29,19 +29,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "94.30%",
-    "uptimeDay": "27.64%",
-    "uptimeWeek": "25.31%",
-    "uptimeMonth": "8.45%",
-    "uptimeYear": "91.26%",
-    "time": 9107,
+    "status": "down",
+    "uptime": "94.32%",
+    "uptimeDay": "28.26%",
+    "uptimeWeek": "25.40%",
+    "uptimeMonth": "8.48%",
+    "uptimeYear": "91.29%",
+    "time": 9101,
     "timeDay": 17270,
     "timeWeek": 14740,
     "timeMonth": 15392,
     "timeYear": 9313,
     "dailyMinutesDown": {
-      "2024-05-28": 626,
+      "2024-05-28": 627,
       "2024-05-27": 894,
       "2024-05-26": 725,
       "2024-05-25": 455,
@@ -76,8 +76,7 @@
       "2024-04-26": 1087,
       "2024-04-25": 936,
       "2024-04-24": 1024,
-      "2024-04-23": 788,
-      "2024-04-22": 178
+      "2024-04-23": 788
     }
   },
   {
@@ -138,7 +137,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
     "status": "up",
-    "uptime": "79.42%",
+    "uptime": "79.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -321,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-05-28": 702,
+      "2024-05-28": 713,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -746,7 +745,7 @@
     "timeMonth": 360,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-05-28": 703,
+      "2024-05-28": 713,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -1211,7 +1210,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "27.37%",
+    "uptimeYear": "27.38%",
     "time": 741,
     "timeDay": 632,
     "timeWeek": 896,
@@ -1512,7 +1511,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-05-28": 703,
+      "2024-05-28": 713,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -1866,7 +1865,7 @@
     "timeMonth": 241,
     "timeYear": 2249,
     "dailyMinutesDown": {
-      "2024-05-28": 703,
+      "2024-05-28": 714,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -2137,7 +2136,7 @@
     "timeMonth": 0,
     "timeYear": 4616,
     "dailyMinutesDown": {
-      "2024-05-28": 703,
+      "2024-05-28": 714,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -2467,7 +2466,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-28": 703,
+      "2024-05-28": 714,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -2920,7 +2919,7 @@
     "timeMonth": 117,
     "timeYear": 5840,
     "dailyMinutesDown": {
-      "2024-05-28": 704,
+      "2024-05-28": 714,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
