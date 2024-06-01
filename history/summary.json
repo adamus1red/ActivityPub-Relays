@@ -29,19 +29,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "94.29%",
-    "uptimeDay": "34.96%",
-    "uptimeWeek": "34.95%",
-    "uptimeMonth": "7.62%",
-    "uptimeYear": "91.18%",
-    "time": 9280,
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "35.61%",
+    "uptimeWeek": "34.94%",
+    "uptimeMonth": "7.64%",
+    "uptimeYear": "91.21%",
+    "time": 9283,
     "timeDay": 18259,
     "timeWeek": 15288,
     "timeMonth": 15266,
     "timeYear": 9462,
     "dailyMinutesDown": {
-      "2024-06-01": 228,
+      "2024-06-01": 229,
       "2024-05-31": 1006,
       "2024-05-30": 1156,
       "2024-05-29": 1011,
@@ -77,7 +77,7 @@
       "2024-04-29": 1327,
       "2024-04-28": 1151,
       "2024-04-27": 1206,
-      "2024-04-26": 571
+      "2024-04-26": 405
     }
   },
   {
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-06-01": 438,
+      "2024-06-01": 448,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -423,8 +423,8 @@
     "status": "down",
     "uptime": "74.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.48%",
-    "uptimeMonth": "89.52%",
+    "uptimeWeek": "54.37%",
+    "uptimeMonth": "89.50%",
     "uptimeYear": "61.91%",
     "time": 1122,
     "timeDay": 569,
@@ -432,7 +432,7 @@
     "timeMonth": 496,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2024-06-01": 438,
+      "2024-06-01": 448,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1271,
@@ -742,7 +742,7 @@
     "timeMonth": 365,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-06-01": 438,
+      "2024-06-01": 449,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1498,7 +1498,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "70.29%",
+    "uptime": "70.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1509,7 +1509,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-06-01": 439,
+      "2024-06-01": 449,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1867,7 +1867,7 @@
     "timeMonth": 225,
     "timeYear": 2249,
     "dailyMinutesDown": {
-      "2024-06-01": 439,
+      "2024-06-01": 449,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -2142,7 +2142,7 @@
     "timeMonth": 0,
     "timeYear": 4684,
     "dailyMinutesDown": {
-      "2024-06-01": 439,
+      "2024-06-01": 449,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -2476,7 +2476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 439,
+      "2024-06-01": 449,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -2928,7 +2928,7 @@
     "timeMonth": 116,
     "timeYear": 5801,
     "dailyMinutesDown": {
-      "2024-06-01": 439,
+      "2024-06-01": 450,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
