@@ -29,11 +29,11 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "42.91%",
-    "uptimeWeek": "34.11%",
-    "uptimeMonth": "68.31%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "43.52%",
+    "uptimeWeek": "34.19%",
+    "uptimeMonth": "68.35%",
     "uptimeYear": "97.36%",
     "time": 9773,
     "timeDay": 15700,
@@ -41,7 +41,7 @@
     "timeMonth": 15882,
     "timeYear": 10181,
     "dailyMinutesDown": {
-      "2024-06-23": 79,
+      "2024-06-23": 80,
       "2024-06-22": 931,
       "2024-06-21": 957,
       "2024-06-20": 979,
@@ -55,7 +55,7 @@
       "2024-06-12": 1203,
       "2024-06-11": 1083,
       "2024-06-10": 1052,
-      "2024-06-09": 697
+      "2024-06-09": 678
     }
   },
   {
@@ -124,7 +124,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "77.02%",
+    "uptimeYear": "77.03%",
     "time": 589,
     "timeDay": 388,
     "timeWeek": 495,
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-06-23": 412,
+      "2024-06-23": 422,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -725,7 +725,7 @@
     "timeMonth": 367,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-06-23": 412,
+      "2024-06-23": 422,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -1124,7 +1124,7 @@
     "uptime": "94.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.39%",
+    "uptimeMonth": "34.36%",
     "uptimeYear": "94.01%",
     "time": 1161,
     "timeDay": 0,
@@ -1132,7 +1132,7 @@
     "timeMonth": 914,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2024-06-23": 412,
+      "2024-06-23": 422,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -1508,7 +1508,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-06-23": 412,
+      "2024-06-23": 422,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -1885,7 +1885,7 @@
     "timeMonth": 275,
     "timeYear": 2257,
     "dailyMinutesDown": {
-      "2024-06-23": 413,
+      "2024-06-23": 422,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -2175,14 +2175,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.89%",
+    "uptimeYear": "12.88%",
     "time": 3456,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5078,
     "dailyMinutesDown": {
-      "2024-06-23": 413,
+      "2024-06-23": 423,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -2532,7 +2532,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-23": 413,
+      "2024-06-23": 423,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
@@ -2986,7 +2986,7 @@
     "timeMonth": 133,
     "timeYear": 5835,
     "dailyMinutesDown": {
-      "2024-06-23": 413,
+      "2024-06-23": 423,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
