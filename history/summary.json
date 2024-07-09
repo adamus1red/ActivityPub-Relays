@@ -31,18 +31,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "54.41%",
-    "uptimeWeek": "34.48%",
-    "uptimeMonth": "78.17%",
+    "uptime": "98.89%",
+    "uptimeDay": "56.10%",
+    "uptimeWeek": "34.72%",
+    "uptimeMonth": "78.12%",
     "uptimeYear": "98.18%",
     "time": 10849,
     "timeDay": 12570,
     "timeWeek": 15439,
     "timeMonth": 15616,
-    "timeYear": 11227,
+    "timeYear": 11226,
     "dailyMinutesDown": {
-      "2024-07-09": 14,
       "2024-07-08": 684,
       "2024-07-07": 443,
       "2024-07-06": 760,
@@ -52,7 +51,7 @@
       "2024-07-02": 1366,
       "2024-07-01": 997,
       "2024-06-30": 934,
-      "2024-06-29": 756
+      "2024-06-29": 794
     }
   },
   {
@@ -60,10 +59,10 @@
     "url": "https://relay.101010.pl/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.101010.pl.ico",
     "slug": "relay-101010-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
@@ -71,7 +70,9 @@
     "timeWeek": 537,
     "timeMonth": 533,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 1
+    }
   },
   {
     "name": "relay.c.im",
@@ -252,14 +253,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.58%",
+    "uptimeYear": "72.57%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-07-09": 273,
+      "2024-07-09": 284,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -404,7 +405,7 @@
     "uptime": "74.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.23%",
+    "uptimeMonth": "76.21%",
     "uptimeYear": "60.35%",
     "time": 1063,
     "timeDay": 598,
@@ -412,7 +413,7 @@
     "timeMonth": 527,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2024-07-09": 273,
+      "2024-07-09": 284,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -713,7 +714,7 @@
     "timeMonth": 234,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-07-09": 273,
+      "2024-07-09": 284,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -1138,7 +1139,7 @@
     "timeMonth": 0,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 284,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -1509,14 +1510,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.75%",
+    "uptimeYear": "43.74%",
     "time": 441,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 284,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -1792,7 +1793,7 @@
     "time": 762,
     "timeDay": 523,
     "timeWeek": 565,
-    "timeMonth": 551,
+    "timeMonth": 550,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2024-07-08": 21,
@@ -1908,7 +1909,7 @@
     "timeMonth": 307,
     "timeYear": 2133,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 285,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -2221,7 +2222,7 @@
     "timeMonth": 0,
     "timeYear": 5479,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 285,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -2586,7 +2587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 285,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -2961,7 +2962,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.83%",
     "time": 887,
@@ -3046,7 +3047,7 @@
     "timeMonth": 152,
     "timeYear": 5800,
     "dailyMinutesDown": {
-      "2024-07-09": 274,
+      "2024-07-09": 285,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
