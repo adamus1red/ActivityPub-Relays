@@ -1,7 +1,7 @@
 url: https://relay.fedibird.com/actor
-status: down
-code: 404
-responseTime: 500
-lastUpdated: 2024-07-11T23:17:58.683Z
+status: up
+code: 200
+responseTime: 831
+lastUpdated: 2024-07-12T13:08:28.839Z
 startTime: 2022-11-15T19:13:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
