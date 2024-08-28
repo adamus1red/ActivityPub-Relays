@@ -32,7 +32,7 @@
     "slug": "mastodon-relay-moew-science",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "4.41%",
+    "uptimeDay": "9.53%",
     "uptimeWeek": "24.80%",
     "uptimeMonth": "70.26%",
     "uptimeYear": "97.52%",
@@ -232,18 +232,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedi.agency.ico",
     "slug": "relay-fedi-agency",
     "status": "down",
-    "uptime": "74.65%",
+    "uptime": "74.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.72%",
+    "uptimeYear": "59.71%",
     "time": 435,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-08-27": 1419,
+      "2024-08-28": 62,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -427,9 +428,9 @@
     "slug": "relay-fedibird-com",
     "status": "up",
     "uptime": "74.48%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "87.24%",
-    "uptimeMonth": "60.37%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "88.16%",
+    "uptimeMonth": "60.39%",
     "uptimeYear": "56.20%",
     "time": 1354,
     "timeDay": 1123,
@@ -437,7 +438,7 @@
     "timeMonth": 3986,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2024-08-27": 104,
+      "2024-08-27": 95,
       "2024-08-25": 57,
       "2024-08-24": 134,
       "2024-08-23": 112,
@@ -663,8 +664,7 @@
       "2023-11-22": 27,
       "2023-10-08": 23,
       "2023-09-16": 21,
-      "2023-09-10": 21,
-      "2023-08-29": 23
+      "2023-09-10": 21
     }
   },
   {
@@ -728,11 +728,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.homunyan.com.ico",
     "slug": "relay-homunyan-com",
     "status": "up",
-    "uptime": "34.14%",
+    "uptime": "34.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.58%",
-    "uptimeYear": "5.52%",
+    "uptimeMonth": "67.76%",
+    "uptimeYear": "5.53%",
     "time": 298,
     "timeDay": 163,
     "timeWeek": 694,
@@ -1086,8 +1086,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -1165,18 +1164,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "down",
-    "uptime": "85.36%",
+    "uptime": "85.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.10%",
+    "uptimeYear": "76.08%",
     "time": 1216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 62,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -1310,8 +1310,7 @@
       "2023-11-29": 27,
       "2023-11-18": 253,
       "2023-11-17": 29,
-      "2023-09-09": 55,
-      "2023-08-29": 563
+      "2023-09-09": 55
     }
   },
   {
@@ -1324,7 +1323,7 @@
     "uptimeDay": "68.82%",
     "uptimeWeek": "93.80%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "52.16%",
+    "uptimeYear": "52.17%",
     "time": 1109,
     "timeDay": 2253,
     "timeWeek": 1886,
@@ -1533,8 +1532,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -1547,14 +1545,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.10%",
+    "uptimeYear": "30.09%",
     "time": 441,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 63,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -1937,18 +1936,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "51.97%",
+    "uptime": "51.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.54%",
+    "uptimeYear": "14.53%",
     "time": 846,
     "timeDay": 80,
     "timeWeek": 251,
     "timeMonth": 250,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 63,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -2304,7 +2304,8 @@
     "timeMonth": 0,
     "timeYear": 5616,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 63,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -2657,8 +2658,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -2678,7 +2678,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 63,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -3041,8 +3042,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440
+      "2023-08-30": 1440
     }
   },
   {
@@ -3136,14 +3136,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.71%",
+    "uptimeYear": "54.70%",
     "time": 5245,
     "timeDay": 238,
     "timeWeek": 131,
     "timeMonth": 138,
     "timeYear": 5025,
     "dailyMinutesDown": {
-      "2024-08-27": 1420,
+      "2024-08-28": 63,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
