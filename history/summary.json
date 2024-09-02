@@ -30,19 +30,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "4.30%",
-    "uptimeWeek": "6.71%",
-    "uptimeMonth": "57.90%",
-    "uptimeYear": "96.49%",
-    "time": 14796,
+    "status": "down",
+    "uptime": "98.06%",
+    "uptimeDay": "4.95%",
+    "uptimeWeek": "6.80%",
+    "uptimeMonth": "58.16%",
+    "uptimeYear": "96.51%",
+    "time": 14801,
     "timeDay": 9887,
     "timeWeek": 15072,
     "timeMonth": 15289,
     "timeYear": 15208,
     "dailyMinutesDown": {
-      "2024-09-02": 1246,
+      "2024-09-02": 1247,
       "2024-09-01": 1419,
       "2024-08-31": 1197,
       "2024-08-30": 1378,
@@ -58,8 +58,7 @@
       "2024-08-20": 915,
       "2024-08-19": 908,
       "2024-08-18": 372,
-      "2024-08-17": 633,
-      "2024-08-16": 114
+      "2024-08-17": 633
     }
   },
   {
@@ -248,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1319,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -745,7 +744,7 @@
     "uptime": "34.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.05%",
+    "uptimeMonth": "87.07%",
     "uptimeYear": "7.14%",
     "time": 298,
     "timeDay": 432,
@@ -1184,7 +1183,7 @@
     "timeMonth": 0,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -1382,7 +1381,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -1784,7 +1783,7 @@
     "timeMonth": 260,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -2145,7 +2144,7 @@
     "timeMonth": 0,
     "timeYear": 5616,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -2519,7 +2518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -2972,7 +2971,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.national-defence.network.ico",
     "slug": "relay-national-defence-network",
     "status": "down",
-    "uptime": "73.74%",
+    "uptime": "73.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2983,7 +2982,7 @@
     "timeMonth": 143,
     "timeYear": 4881,
     "dailyMinutesDown": {
-      "2024-09-02": 1309,
+      "2024-09-02": 1320,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
