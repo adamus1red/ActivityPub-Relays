@@ -30,11 +30,11 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "32.12%",
-    "uptimeWeek": "38.48%",
-    "uptimeMonth": "69.52%",
+    "uptimeDay": "32.97%",
+    "uptimeWeek": "38.60%",
+    "uptimeMonth": "69.55%",
     "uptimeYear": "97.46%",
     "time": 15409,
     "timeDay": 15617,
@@ -42,7 +42,7 @@
     "timeMonth": 15928,
     "timeYear": 15505,
     "dailyMinutesDown": {
-      "2024-10-14": 404,
+      "2024-10-14": 405,
       "2024-10-13": 900,
       "2024-10-12": 971,
       "2024-10-11": 774,
@@ -57,7 +57,7 @@
       "2024-10-02": 952,
       "2024-10-01": 871,
       "2024-09-30": 1046,
-      "2024-09-29": 36
+      "2024-09-29": 19
     }
   },
   {
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-10-14": 572,
+      "2024-10-14": 586,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -441,8 +441,8 @@
     "status": "up",
     "uptime": "72.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "45.23%",
-    "uptimeMonth": "11.79%",
+    "uptimeWeek": "45.37%",
+    "uptimeMonth": "11.82%",
     "uptimeYear": "53.79%",
     "time": 1844,
     "timeDay": 577,
@@ -765,7 +765,7 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 586,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1194,7 +1194,7 @@
     "timeMonth": 0,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 586,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1435,7 +1435,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 586,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1752,7 +1752,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.pissdichal.de.ico",
     "slug": "relay-pissdichal-de",
     "status": "up",
-    "uptime": "89.91%",
+    "uptime": "89.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1895,7 +1895,7 @@
     "timeMonth": 233,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 586,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -2275,7 +2275,7 @@
     "timeMonth": 0,
     "timeYear": 7334,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 587,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -2649,7 +2649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 573,
+      "2024-10-14": 587,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -3114,7 +3114,7 @@
     "timeMonth": 150,
     "timeYear": 3012,
     "dailyMinutesDown": {
-      "2024-10-14": 574,
+      "2024-10-14": 587,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
