@@ -1,7 +1,7 @@
 url: https://relay.toot.yukimochi.jp/actor
-status: down
-code: 503
-responseTime: 626
-lastUpdated: 2024-11-05T19:02:51.508Z
+status: up
+code: 200
+responseTime: 729
+lastUpdated: 2024-11-05T19:19:56.850Z
 startTime: 2022-11-15T23:05:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
