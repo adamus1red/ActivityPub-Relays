@@ -31,19 +31,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "46.64%",
-    "uptimeWeek": "36.61%",
-    "uptimeMonth": "73.84%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "47.44%",
+    "uptimeWeek": "36.63%",
+    "uptimeMonth": "74.39%",
+    "uptimeYear": "97.87%",
     "time": 15455,
     "timeDay": 15595,
     "timeWeek": 15577,
     "timeMonth": 15239,
     "timeYear": 15390,
     "dailyMinutesDown": {
-      "2024-11-14": 229,
+      "2024-11-14": 230,
       "2024-11-13": 800,
       "2024-11-12": 1002,
       "2024-11-11": 985,
@@ -55,7 +55,7 @@
       "2024-11-05": 1040,
       "2024-11-04": 796,
       "2024-11-03": 786,
-      "2024-11-02": 981
+      "2024-11-02": 743
     }
   },
   {
@@ -185,7 +185,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedi.agency.ico",
     "slug": "relay-fedi-agency",
     "status": "down",
-    "uptime": "66.64%",
+    "uptime": "66.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-11-14": 402,
+      "2024-11-14": 414,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -455,10 +455,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.fedibird.com.ico",
     "slug": "relay-fedibird-com",
     "status": "down",
-    "uptime": "71.40%",
+    "uptime": "71.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.32%",
+    "uptimeMonth": "53.29%",
     "uptimeYear": "57.10%",
     "time": 1839,
     "timeDay": 599,
@@ -466,7 +466,7 @@
     "timeMonth": 532,
     "timeYear": 2002,
     "dailyMinutesDown": {
-      "2024-11-14": 402,
+      "2024-11-14": 414,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -781,7 +781,7 @@
     "timeMonth": 0,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-11-14": 402,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1214,7 +1214,7 @@
     "timeMonth": 0,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1486,7 +1486,7 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1986,7 +1986,7 @@
     "timeMonth": 235,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -2366,7 +2366,7 @@
     "timeMonth": 0,
     "timeYear": 8846,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -2740,7 +2740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -3206,7 +3206,7 @@
     "timeMonth": 178,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2024-11-14": 403,
+      "2024-11-14": 415,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
