@@ -31,19 +31,19 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "33.99%",
-    "uptimeWeek": "36.04%",
-    "uptimeMonth": "74.75%",
-    "uptimeYear": "97.90%",
-    "time": 15442,
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "33.94%",
+    "uptimeWeek": "36.13%",
+    "uptimeMonth": "75.38%",
+    "uptimeYear": "97.95%",
+    "time": 15444,
     "timeDay": 20755,
     "timeWeek": 17176,
     "timeMonth": 15659,
-    "timeYear": 15367,
+    "timeYear": 15364,
     "dailyMinutesDown": {
-      "2024-11-18": 951,
+      "2024-11-18": 952,
       "2024-11-17": 747,
       "2024-11-16": 878,
       "2024-11-15": 964,
@@ -54,7 +54,7 @@
       "2024-11-10": 815,
       "2024-11-09": 952,
       "2024-11-08": 894,
-      "2024-11-07": 1071
+      "2024-11-07": 795
     }
   },
   {
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-11-18": 1130,
+      "2024-11-18": 1140,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -460,7 +460,7 @@
     "uptime": "70.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.51%",
+    "uptimeMonth": "38.48%",
     "uptimeYear": "55.87%",
     "time": 1839,
     "timeDay": 454,
@@ -468,7 +468,7 @@
     "timeMonth": 535,
     "timeYear": 2004,
     "dailyMinutesDown": {
-      "2024-11-18": 1130,
+      "2024-11-18": 1140,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -789,7 +789,7 @@
     "timeMonth": 0,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-11-18": 1130,
+      "2024-11-18": 1140,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1140,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1497,7 +1497,7 @@
     "timeMonth": 0,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1141,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1991,7 +1991,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "46.11%",
+    "uptime": "46.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2002,7 +2002,7 @@
     "timeMonth": 242,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1141,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -2382,7 +2382,7 @@
     "timeMonth": 0,
     "timeYear": 8925,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1141,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -2757,7 +2757,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1141,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -3223,7 +3223,7 @@
     "timeMonth": 173,
     "timeYear": 1563,
     "dailyMinutesDown": {
-      "2024-11-18": 1131,
+      "2024-11-18": 1141,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
