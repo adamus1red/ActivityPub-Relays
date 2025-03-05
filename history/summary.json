@@ -42,7 +42,7 @@
     "timeDay": 894,
     "timeWeek": 1026,
     "timeMonth": 822,
-    "timeYear": 15209,
+    "timeYear": 15210,
     "dailyMinutesDown": {
       "2025-01-15": 914,
       "2025-01-14": 1440,
@@ -262,7 +262,7 @@
     "uptime": "60.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "68.24%",
+    "uptimeMonth": "68.29%",
     "uptimeYear": "14.12%",
     "time": 463,
     "timeDay": 142,
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-03-05": 198,
+      "2025-03-05": 222,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1302,7 +1302,7 @@
     "timeMonth": 0,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2025-03-05": 198,
+      "2025-03-05": 222,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1622,19 +1622,19 @@
     "url": "https://relay.mistli.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "89.13%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "86.07%",
+    "uptimeWeek": "89.11%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "98.82%",
     "time": 1325,
     "timeDay": 762,
     "timeWeek": 776,
     "timeMonth": 1119,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2025-03-05": 31,
+      "2025-03-05": 32,
       "2025-03-04": 168,
       "2025-03-03": 385,
       "2025-03-02": 119,
@@ -1668,8 +1668,7 @@
       "2024-09-02": 92,
       "2024-09-01": 338,
       "2024-08-31": 346,
-      "2024-08-30": 305,
-      "2024-08-29": 38
+      "2024-08-30": 305
     }
   },
   {
@@ -1682,7 +1681,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "7.88%",
+    "uptimeYear": "7.89%",
     "time": 416,
     "timeDay": 356,
     "timeWeek": 385,
@@ -2223,7 +2222,7 @@
     "timeMonth": 415,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-03-05": 198,
+      "2025-03-05": 222,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -2607,7 +2606,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 198,
+      "2025-03-05": 222,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -2991,7 +2990,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 198,
+      "2025-03-05": 223,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
