@@ -261,7 +261,7 @@
     "uptime": "60.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "86.50%",
+    "uptimeMonth": "86.55%",
     "uptimeYear": "14.11%",
     "time": 472,
     "timeDay": 240,
@@ -888,7 +888,7 @@
     "timeMonth": 0,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-03-10": 1035,
+      "2025-03-10": 1053,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1305,7 +1305,7 @@
     "timeMonth": 0,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2025-03-10": 1035,
+      "2025-03-10": 1053,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1630,19 +1630,19 @@
     "url": "https://relay.mistli.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "89.68%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "98.83%",
     "time": 1277,
     "timeDay": 762,
     "timeWeek": 732,
     "timeMonth": 991,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2025-03-10": 123,
+      "2025-03-10": 124,
       "2025-03-09": 56,
       "2025-03-08": 85,
       "2025-03-07": 139,
@@ -1679,7 +1679,7 @@
       "2024-09-28": 25,
       "2024-09-21": 25,
       "2024-09-02": 92,
-      "2024-09-01": 255
+      "2024-09-01": 119
     }
   },
   {
@@ -1692,7 +1692,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.41%",
+    "uptimeYear": "9.42%",
     "time": 414,
     "timeDay": 362,
     "timeWeek": 342,
@@ -2228,7 +2228,7 @@
     "timeMonth": 422,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-03-10": 1035,
+      "2025-03-10": 1054,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -2612,7 +2612,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 1035,
+      "2025-03-10": 1054,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -2996,7 +2996,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-10": 1035,
+      "2025-03-10": 1054,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
