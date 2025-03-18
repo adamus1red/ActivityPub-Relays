@@ -122,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.c.im.ico",
     "slug": "relay-c-im",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -750,7 +750,7 @@
     "slug": "relay-froth-zone",
     "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "52.86%",
+    "uptimeDay": "54.54%",
     "uptimeWeek": "35.13%",
     "uptimeMonth": "84.89%",
     "uptimeYear": "96.21%",
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-03-18": 494,
+      "2025-03-18": 518,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1299,7 +1299,7 @@
     "timeMonth": 0,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-03-18": 494,
+      "2025-03-18": 518,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1632,11 +1632,11 @@
     "url": "https://relay.mistli.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "86.15%",
-    "uptimeWeek": "84.84%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "86.07%",
+    "uptimeWeek": "84.90%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "99.36%",
     "time": 1227,
     "timeDay": 768,
@@ -1644,7 +1644,7 @@
     "timeMonth": 930,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2025-03-18": 110,
+      "2025-03-18": 111,
       "2025-03-17": 91,
       "2025-03-16": 265,
       "2025-03-15": 64,
@@ -1663,7 +1663,7 @@
       "2025-03-02": 119,
       "2025-03-01": 21,
       "2025-02-28": 110,
-      "2025-02-27": 141
+      "2025-02-27": 120
     }
   },
   {
@@ -1673,9 +1673,9 @@
     "slug": "relay-mstdn-live",
     "status": "down",
     "uptime": "51.32%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "11.50%",
     "time": 416,
     "timeDay": 162,
@@ -1683,7 +1683,7 @@
     "timeMonth": 439,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-03-18": 1,
+      "2025-03-18": 25,
       "2025-02-04": 520,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -2205,7 +2205,7 @@
     "timeMonth": 440,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-03-18": 495,
+      "2025-03-18": 519,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2589,7 +2589,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 495,
+      "2025-03-18": 519,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -2973,7 +2973,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 495,
+      "2025-03-18": 519,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
