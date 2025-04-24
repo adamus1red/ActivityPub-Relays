@@ -1,7 +1,7 @@
 url: https://mastodon-relay.thedoodleproject.net/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-24T05:11:23.050Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2025-04-24T05:32:47.115Z
 startTime: 2022-11-15T19:12:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
