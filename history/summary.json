@@ -270,7 +270,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.61%",
+    "uptimeYear": "26.63%",
     "time": 486,
     "timeDay": 255,
     "timeWeek": 370,
@@ -546,8 +546,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -750,19 +749,20 @@
     "url": "https://relay.glauca.space/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.glauca.space.ico",
     "slug": "relay-glauca-space",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "83.21%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.70%",
-    "time": 1470,
-    "timeDay": 6613,
-    "timeWeek": 4324,
-    "timeMonth": 2825,
-    "timeYear": 1585,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "76.30%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "98.68%",
+    "time": 1469,
+    "timeDay": 6084,
+    "timeWeek": 4128,
+    "timeMonth": 2788,
+    "timeYear": 1584,
     "dailyMinutesDown": {
-      "2025-05-22": 242,
+      "2025-05-23": 74,
+      "2025-05-22": 267,
       "2025-05-16": 37,
       "2025-05-15": 37,
       "2025-05-08": 91,
@@ -830,7 +830,8 @@
     "timeMonth": 0,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 76,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -1169,8 +1170,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -1230,18 +1230,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "down",
-    "uptime": "60.47%",
+    "uptime": "60.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.10%",
+    "uptimeYear": "3.08%",
     "time": 1177,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 76,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -1594,8 +1595,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 969,
-      "2024-05-23": 27
+      "2024-06-03": 969
     }
   },
   {
@@ -1637,18 +1637,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mistli.net.ico",
     "slug": "relay-mistli-net",
     "status": "down",
-    "uptime": "93.60%",
+    "uptime": "93.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.88%",
+    "uptimeYear": "83.86%",
     "time": 1304,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 76,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -1732,7 +1733,8 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 76,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -2054,8 +2056,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -2115,18 +2116,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
     "status": "down",
-    "uptime": "97.37%",
+    "uptime": "97.36%",
     "uptimeDay": "3.85%",
-    "uptimeWeek": "76.26%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "93.37%",
+    "uptimeWeek": "75.25%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "93.35%",
     "time": 677,
     "timeDay": 491,
     "timeWeek": 653,
     "timeMonth": 620,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-05-22": 1360,
+      "2025-05-23": 77,
+      "2025-05-22": 1385,
       "2025-05-21": 1033,
       "2025-02-27": 1258,
       "2025-02-26": 96,
@@ -2200,7 +2202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.thedoodleproject.net.ico",
     "slug": "mastodon-relay-thedoodleproject-net",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
@@ -2254,7 +2256,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "36.82%",
+    "uptime": "36.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2265,7 +2267,8 @@
     "timeMonth": 325,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 77,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -2628,8 +2631,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -2649,7 +2651,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 77,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -3012,8 +3015,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -3033,7 +3035,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 1415,
+      "2025-05-23": 77,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -3396,8 +3399,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
