@@ -1,7 +1,7 @@
 url: https://relay.darmstadt.social/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-27T20:31:09.106Z
+status: up
+code: 200
+responseTime: 543
+lastUpdated: 2025-05-27T20:46:13.168Z
 startTime: 2022-11-15T23:05:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
