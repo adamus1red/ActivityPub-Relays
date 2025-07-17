@@ -1,7 +1,7 @@
 url: https://relay.asonix.dog/actor
-status: down
-code: 503
-responseTime: 308
-lastUpdated: 2025-07-17T04:46:47.978Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2025-07-17T05:13:38.767Z
 startTime: 2022-11-15T23:05:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
