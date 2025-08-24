@@ -725,7 +725,7 @@
     "timeMonth": 0,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-08-24": 84,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -1148,7 +1148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-24": 84,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -1569,7 +1569,7 @@
     "timeMonth": 0,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2025-08-24": 84,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -1747,7 +1747,7 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-08-24": 84,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -2295,7 +2295,7 @@
     "timeMonth": 373,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-08-24": 85,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -2679,7 +2679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-24": 85,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -3054,7 +3054,7 @@
     "status": "down",
     "uptime": "5.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.58%",
+    "uptimeWeek": "83.53%",
     "uptimeMonth": "92.36%",
     "uptimeYear": "7.86%",
     "time": 529,
@@ -3063,7 +3063,7 @@
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-08-24": 85,
+      "2025-08-24": 90,
       "2025-08-23": 1440,
       "2025-08-22": 130,
       "2025-08-08": 96,
@@ -3476,10 +3476,10 @@
     "url": "https://relay.kretschmann.social/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.kretschmann.social.ico",
     "slug": "relay-kretschmann-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.18%",
     "time": 649,
@@ -3488,6 +3488,7 @@
     "timeMonth": 741,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2025-08-24": 1,
       "2025-08-06": 397,
       "2025-08-05": 271,
       "2025-08-04": 55,
