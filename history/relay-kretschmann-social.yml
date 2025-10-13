@@ -1,7 +1,7 @@
 url: https://relay.kretschmann.social/actor
-status: up
-code: 200
-responseTime: 676
-lastUpdated: 2025-10-12T23:16:22.510Z
+status: down
+code: 502
+responseTime: 734
+lastUpdated: 2025-10-13T18:43:43.193Z
 startTime: 2022-11-15T23:05:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
