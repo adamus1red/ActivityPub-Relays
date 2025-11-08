@@ -27,17 +27,17 @@
     "url": "https://mastodon-relay.moew.science/actor",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon-relay.moew.science.ico",
     "slug": "mastodon-relay-moew-science",
-    "status": "up",
+    "status": "down",
     "uptime": "96.15%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "98.00%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "88.53%",
-    "time": 9948,
-    "timeDay": 2307,
-    "timeWeek": 4104,
-    "timeMonth": 2699,
-    "timeYear": 9451,
+    "time": 9936,
+    "timeDay": 1953,
+    "timeWeek": 3811,
+    "timeMonth": 2654,
+    "timeYear": 9439,
     "dailyMinutesDown": {
       "2025-11-08": 68,
       "2025-11-04": 133,
@@ -113,7 +113,7 @@
       "2024-12-07": 1027,
       "2024-12-06": 1339,
       "2024-12-05": 1214,
-      "2024-12-04": 143
+      "2024-12-04": 127
     }
   },
   {
@@ -611,7 +611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 261,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -1042,7 +1042,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 261,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -1462,7 +1462,7 @@
     "timeMonth": 0,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-11-08": 262,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -1716,7 +1716,7 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-11-08": 262,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -2234,7 +2234,7 @@
     "timeMonth": 311,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-11-08": 262,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -2618,7 +2618,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 262,
+      "2025-11-08": 280,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
