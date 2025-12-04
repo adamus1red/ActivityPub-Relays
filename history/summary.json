@@ -165,19 +165,19 @@
     "url": "https://relay.chocoflan.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "48.41%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "50.37%",
     "uptimeWeek": "54.18%",
     "uptimeMonth": "88.76%",
-    "uptimeYear": "98.81%",
-    "time": 932,
+    "uptimeYear": "98.83%",
+    "time": 933,
     "timeDay": 1019,
     "timeWeek": 1486,
     "timeMonth": 1255,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-12-04": 218,
+      "2025-12-04": 219,
       "2025-12-03": 1022,
       "2025-12-02": 1210,
       "2025-12-01": 913,
@@ -219,8 +219,7 @@
       "2025-06-29": 24,
       "2025-06-28": 38,
       "2025-06-11": 40,
-      "2025-06-10": 19,
-      "2025-06-06": 136
+      "2025-06-10": 19
     }
   },
   {
@@ -511,7 +510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 499,
+      "2025-12-04": 528,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -941,7 +940,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 499,
+      "2025-12-04": 528,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -1355,7 +1354,7 @@
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-12-04": 499,
+      "2025-12-04": 528,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -1624,7 +1623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.live.ico",
     "slug": "relay-mstdn-live",
     "status": "down",
-    "uptime": "39.31%",
+    "uptime": "39.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1635,7 +1634,7 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-12-04": 499,
+      "2025-12-04": 528,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2080,8 +2079,8 @@
     "status": "down",
     "uptime": "97.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.27%",
-    "uptimeMonth": "86.36%",
+    "uptimeWeek": "40.99%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "96.67%",
     "time": 231,
     "timeDay": 358,
@@ -2089,7 +2088,7 @@
     "timeMonth": 269,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-12-04": 500,
+      "2025-12-04": 529,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2142,7 +2141,7 @@
     "timeMonth": 368,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-12-04": 500,
+      "2025-12-04": 529,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2526,7 +2525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 500,
+      "2025-12-04": 529,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
