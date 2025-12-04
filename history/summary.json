@@ -165,19 +165,19 @@
     "url": "https://relay.chocoflan.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "61.21%",
+    "uptimeDay": "61.17%",
     "uptimeWeek": "52.09%",
     "uptimeMonth": "88.28%",
-    "uptimeYear": "98.81%",
-    "time": 940,
+    "uptimeYear": "98.82%",
+    "time": 941,
     "timeDay": 1044,
     "timeWeek": 1446,
     "timeMonth": 1239,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2025-12-04": 429,
+      "2025-12-04": 430,
       "2025-12-03": 1022,
       "2025-12-02": 1210,
       "2025-12-01": 913,
@@ -214,8 +214,7 @@
       "2025-07-11": 37,
       "2025-07-08": 26,
       "2025-07-05": 33,
-      "2025-07-03": 35,
-      "2025-07-02": 36
+      "2025-07-03": 35
     }
   },
   {
@@ -506,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 1135,
+      "2025-12-04": 1173,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -936,7 +935,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -1350,7 +1349,7 @@
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -1630,7 +1629,7 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2075,8 +2074,8 @@
     "status": "down",
     "uptime": "97.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "34.96%",
-    "uptimeMonth": "84.91%",
+    "uptimeWeek": "34.58%",
+    "uptimeMonth": "84.82%",
     "uptimeYear": "96.67%",
     "time": 231,
     "timeDay": 358,
@@ -2084,7 +2083,7 @@
     "timeMonth": 269,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2137,7 +2136,7 @@
     "timeMonth": 368,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2521,7 +2520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 1136,
+      "2025-12-04": 1174,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -2894,7 +2893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dog.ico",
     "slug": "relay-dog",
     "status": "up",
-    "uptime": "13.58%",
+    "uptime": "13.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
