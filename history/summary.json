@@ -138,12 +138,12 @@
     "url": "https://relay.chocoflan.net/actor",
     "icon": "https://icons.duckduckgo.com/ip3/relay.chocoflan.net.ico",
     "slug": "relay-chocoflan-net",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "25.48%",
-    "uptimeWeek": "6.97%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "25.76%",
+    "uptimeWeek": "7.23%",
     "uptimeMonth": "56.84%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.46%",
     "time": 904,
     "timeDay": 211,
     "timeWeek": 225,
@@ -179,7 +179,7 @@
       "2025-12-04": 456,
       "2025-12-03": 1022,
       "2025-12-02": 1210,
-      "2025-12-01": 234
+      "2025-12-01": 215
     }
   },
   {
@@ -215,7 +215,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "96.05%",
+    "uptimeYear": "96.06%",
     "time": 470,
     "timeDay": 459,
     "timeWeek": 401,
@@ -404,7 +404,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 813,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -828,7 +828,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 813,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1244,7 +1244,7 @@
     "timeMonth": 0,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2026-01-31": 813,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1582,7 +1582,7 @@
     "timeMonth": 0,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2026-01-31": 813,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -2050,7 +2050,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "28.86%",
+    "uptime": "28.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2061,7 +2061,7 @@
     "timeMonth": 354,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-01-31": 813,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -2445,7 +2445,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 814,
+      "2026-01-31": 840,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
