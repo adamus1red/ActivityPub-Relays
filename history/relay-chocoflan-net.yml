@@ -1,7 +1,7 @@
 url: https://relay.chocoflan.net/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-15T14:19:25.375Z
+status: up
+code: 200
+responseTime: 385
+lastUpdated: 2026-02-15T17:01:36.438Z
 startTime: 2022-11-15T19:13:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
