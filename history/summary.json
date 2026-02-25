@@ -140,12 +140,12 @@
     "status": "up",
     "uptime": "97.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "34.01%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "34.31%",
     "uptimeYear": "92.62%",
     "time": 805,
     "timeDay": 385,
-    "timeWeek": 287,
+    "timeWeek": 279,
     "timeMonth": 233,
     "timeYear": 814,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dresden.network.ico",
     "slug": "relay-dresden-network",
     "status": "up",
-    "uptime": "89.03%",
+    "uptime": "89.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -317,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.glauca.space.ico",
     "slug": "relay-glauca-space",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "97.83%",
+    "uptime": "99.33%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "97.81%",
     "time": 1576,
     "timeDay": 858,
     "timeWeek": 934,
     "timeMonth": 1037,
     "timeYear": 1558,
     "dailyMinutesDown": {
-      "2026-02-24": 67,
+      "2026-02-24": 57,
       "2026-02-06": 143,
       "2026-01-21": 68,
       "2026-01-18": 35,
@@ -382,7 +382,7 @@
       "2025-05-28": 162,
       "2025-05-27": 220,
       "2025-05-25": 32,
-      "2025-05-24": 278
+      "2025-05-24": 428
     }
   },
   {
@@ -402,7 +402,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 116,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -765,8 +766,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -814,7 +814,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.libranet.de.ico",
     "slug": "relay-libranet-de",
     "status": "down",
-    "uptime": "46.43%",
+    "uptime": "46.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -825,7 +825,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 116,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -1188,8 +1189,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -1234,14 +1234,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.71%",
+    "uptimeYear": "7.69%",
     "time": 1173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 116,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -1596,14 +1597,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.85%",
+    "uptimeYear": "5.83%",
     "time": 366,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 116,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -2094,7 +2096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.masto.social.ico",
     "slug": "relay-masto-social",
     "status": "down",
-    "uptime": "28.27%",
+    "uptime": "28.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2105,7 +2107,8 @@
     "timeMonth": 464,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 117,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -2468,8 +2471,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -2478,7 +2480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wuff.space.ico",
     "slug": "relay-wuff-space",
     "status": "down",
-    "uptime": "21.26%",
+    "uptime": "21.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2489,7 +2491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-24": 1424,
+      "2026-02-25": 117,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -2852,8 +2855,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -2866,7 +2868,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "56.71%",
+    "uptimeYear": "56.74%",
     "time": 463,
     "timeDay": 340,
     "timeWeek": 299,
@@ -3059,8 +3061,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
