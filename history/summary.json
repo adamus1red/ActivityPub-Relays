@@ -13,7 +13,7 @@
     "time": 2613,
     "timeDay": 4742,
     "timeWeek": 3854,
-    "timeMonth": 4224,
+    "timeMonth": 4244,
     "timeYear": 2967,
     "dailyMinutesDown": {
       "2026-01-12": 46,
@@ -35,7 +35,7 @@
     "time": 3886,
     "timeDay": 495,
     "timeWeek": 1327,
-    "timeMonth": 860,
+    "timeMonth": 875,
     "timeYear": 2746,
     "dailyMinutesDown": {
       "2026-02-24": 177,
@@ -103,7 +103,7 @@
     "time": 636,
     "timeDay": 490,
     "timeWeek": 665,
-    "timeMonth": 652,
+    "timeMonth": 658,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2026-01-09": 47,
@@ -125,7 +125,7 @@
     "time": 541,
     "timeDay": 407,
     "timeWeek": 486,
-    "timeMonth": 499,
+    "timeMonth": 502,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2026-02-19": 697
@@ -140,7 +140,7 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "80.50%",
+    "uptimeMonth": "80.81%",
     "uptimeYear": "92.62%",
     "time": 796,
     "timeDay": 316,
@@ -204,7 +204,7 @@
     "time": 928,
     "timeDay": 587,
     "timeWeek": 697,
-    "timeMonth": 769,
+    "timeMonth": 776,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2025-11-06": 26,
@@ -227,7 +227,7 @@
     "time": 465,
     "timeDay": 282,
     "timeWeek": 341,
-    "timeMonth": 380,
+    "timeMonth": 379,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2026-01-26": 96,
@@ -251,7 +251,7 @@
     "time": 1179,
     "timeDay": 603,
     "timeWeek": 644,
-    "timeMonth": 1899,
+    "timeMonth": 1413,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2026-02-06": 50,
@@ -270,17 +270,16 @@
     "slug": "relay-froth-zone",
     "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "85.33%",
-    "uptimeMonth": "96.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.36%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "97.15%",
     "time": 1426,
     "timeDay": 697,
     "timeWeek": 1667,
-    "timeMonth": 1808,
+    "timeMonth": 1731,
     "timeYear": 1618,
     "dailyMinutesDown": {
-      "2026-03-09": 3,
       "2026-03-06": 465,
       "2026-03-05": 1011,
       "2025-12-18": 405,
@@ -321,7 +320,7 @@
     "time": 1579,
     "timeDay": 853,
     "timeWeek": 1238,
-    "timeMonth": 1077,
+    "timeMonth": 1085,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2026-03-07": 302,
@@ -402,7 +401,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 107,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -765,8 +765,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -804,7 +803,7 @@
     "time": 139,
     "timeDay": 91,
     "timeWeek": 139,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -825,7 +824,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 108,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -1188,8 +1188,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -1206,7 +1205,7 @@
     "time": 1177,
     "timeDay": 957,
     "timeWeek": 1065,
-    "timeMonth": 1057,
+    "timeMonth": 1059,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2026-01-29": 41,
@@ -1234,14 +1233,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "4.15%",
+    "uptimeYear": "4.13%",
     "time": 1230,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 108,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -1609,14 +1609,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "2.29%",
+    "uptimeYear": "2.27%",
     "time": 366,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 108,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -1981,7 +1982,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.pissdichal.de.ico",
     "slug": "relay-pissdichal-de",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1989,7 +1990,7 @@
     "time": 584,
     "timeDay": 402,
     "timeWeek": 622,
-    "timeMonth": 520,
+    "timeMonth": 523,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-12-28": 138,
@@ -2018,7 +2019,7 @@
     "time": 619,
     "timeDay": 589,
     "timeWeek": 608,
-    "timeMonth": 581,
+    "timeMonth": 580,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2025-10-02": 59,
@@ -2032,7 +2033,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.wagnersnetz.de.ico",
     "slug": "relay-wagnersnetz-de",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -2040,7 +2041,7 @@
     "time": 598,
     "timeDay": 509,
     "timeWeek": 541,
-    "timeMonth": 563,
+    "timeMonth": 567,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2026-02-19": 30,
@@ -2127,10 +2128,11 @@
     "time": 330,
     "timeDay": 248,
     "timeWeek": 240,
-    "timeMonth": 304,
+    "timeMonth": 299,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 108,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -2493,8 +2495,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -2514,7 +2515,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 1410,
+      "2026-03-10": 108,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -2877,8 +2879,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -2887,15 +2888,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dog.ico",
     "slug": "relay-dog",
     "status": "up",
-    "uptime": "20.35%",
+    "uptime": "20.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "60.27%",
+    "uptimeYear": "60.30%",
     "time": 459,
     "timeDay": 469,
     "timeWeek": 390,
-    "timeMonth": 331,
+    "timeMonth": 333,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2026-02-15": 86,
@@ -3071,8 +3072,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -3089,7 +3089,7 @@
     "time": 530,
     "timeDay": 341,
     "timeWeek": 510,
-    "timeMonth": 425,
+    "timeMonth": 432,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-02-18": 59,
@@ -3118,7 +3118,7 @@
     "time": 651,
     "timeDay": 555,
     "timeWeek": 723,
-    "timeMonth": 688,
+    "timeMonth": 698,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2025-08-18": 17,
@@ -3140,7 +3140,7 @@
     "time": 693,
     "timeDay": 436,
     "timeWeek": 659,
-    "timeMonth": 662,
+    "timeMonth": 668,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2026-02-03": 148,
