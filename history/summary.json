@@ -241,7 +241,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 1124,
     "timeDay": 423,
     "timeWeek": 1392,
@@ -253,8 +253,7 @@
       "2026-02-03": 61,
       "2026-02-01": 49,
       "2025-09-19": 52,
-      "2025-05-02": 46,
-      "2025-04-24": 168
+      "2025-05-02": 46
     }
   },
   {
@@ -317,17 +316,16 @@
     "slug": "relay-glauca-space",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "95.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "98.72%",
     "time": 1568,
     "timeDay": 9103,
     "timeWeek": 2735,
     "timeMonth": 1526,
-    "timeYear": 1549,
+    "timeYear": 1525,
     "dailyMinutesDown": {
-      "2026-04-23": 12,
       "2026-04-21": 125,
       "2026-04-19": 42,
       "2026-04-18": 97,
@@ -381,7 +379,7 @@
       "2025-11-26": 68,
       "2025-11-25": 143,
       "2025-11-06": 227,
-      "2025-11-05": 93
+      "2025-11-05": 148
     }
   },
   {
@@ -401,6 +399,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -764,8 +763,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -824,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -1242,7 +1240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -1626,7 +1624,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -2052,7 +2050,7 @@
     "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.12%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "96.83%",
     "time": 597,
     "timeDay": 751,
@@ -2171,7 +2169,7 @@
     "timeMonth": 270,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -2555,7 +2553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 145,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -2928,10 +2926,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dog.ico",
     "slug": "relay-dog",
     "status": "down",
-    "uptime": "23.05%",
+    "uptime": "23.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "93.72%",
+    "uptimeWeek": "72.52%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "72.05%",
     "time": 443,
     "timeDay": 0,
@@ -2939,7 +2937,7 @@
     "timeMonth": 328,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2026-04-24": 0,
+      "2026-04-24": 146,
       "2026-04-23": 1440,
       "2026-04-22": 1185,
       "2026-04-01": 64,
@@ -3085,18 +3083,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.asonix.dog.ico",
     "slug": "relay-asonix-dog",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "24.61%",
-    "uptimeWeek": "88.68%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.44%",
+    "uptimeDay": "14.54%",
+    "uptimeWeek": "87.24%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "99.55%",
     "time": 617,
     "timeDay": 15269,
     "timeWeek": 4881,
     "timeMonth": 1652,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2026-04-24": 1,
+      "2026-04-24": 146,
       "2026-04-23": 1085,
       "2026-04-20": 55,
       "2026-03-26": 60,
@@ -3140,18 +3138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.kretschmann.social.ico",
     "slug": "relay-kretschmann-social",
     "status": "down",
-    "uptime": "96.21%",
+    "uptime": "96.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.35%",
+    "uptimeYear": "88.32%",
     "time": 696,
     "timeDay": 715,
     "timeWeek": 604,
     "timeMonth": 571,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2026-04-24": 1,
+      "2026-04-24": 146,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
