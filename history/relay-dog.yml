@@ -1,7 +1,7 @@
 url: https://relay.dog/actor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-11T19:32:35.988Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2026-06-11T21:37:30.735Z
 startTime: 2022-11-15T23:05:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
