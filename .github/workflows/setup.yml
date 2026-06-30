@@ -6,7 +6,7 @@
 # Your changes will be overwritten when the Upptime template updates (by default, weekly)
 # Instead, change .upptimerc.yml configuration and the workflows will be generated accordingly.
 #
-# 🔼 Upptime @v1.43.5
+# 🔼 Upptime @v1.43.6
 # GitHub-powered open-source uptime monitor and status page by Anand Chowdhary
 
 # * Source: https://github.com/upptime/upptime
@@ -55,10 +55,19 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - name: Generate graphs
+        id: dispatch_graphs
         uses: benc-uk/workflow-dispatch@v1
+        continue-on-error: true
         with:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Generate graphs directly if dispatch fails
+        if: steps.dispatch_graphs.outcome == 'failure'
+        uses: upptime/uptime-monitor@v1.43.6
+        with:
+          command: "graphs"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
         uses: upptime/uptime-monitor@v1.43.6
         with:
